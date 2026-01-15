@@ -1,0 +1,6141 @@
+{
+  "PERINTAH": {
+    "indonesia": "Perintah",
+    "jawa_ngoko": "Aba",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dhawuh",
+    "priority": "nan"
+  },
+  "PELANA": {
+    "indonesia": "Pelana",
+    "jawa_ngoko": "Abah-abah",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kambil",
+    "priority": "nan"
+  },
+  "MERAH": {
+    "indonesia": "Merah",
+    "jawa_ngoko": "Abang",
+    "jawa_krama": "Abrit",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERAT": {
+    "indonesia": "Berat",
+    "jawa_ngoko": "Abot",
+    "jawa_krama": "Awrat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENANAK NASI": {
+    "indonesia": "Menanak nasi",
+    "jawa_ngoko": "Ngliwêt",
+    "jawa_krama": "Mbêthak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERDIRI": {
+    "indonesia": "Berdiri",
+    "jawa_ngoko": "Ngadêk",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Jumênêng",
+    "priority": "nan"
+  },
+  "DINGIN": {
+    "indonesia": "Dingin",
+    "jawa_ngoko": "Adhêm",
+    "jawa_krama": "Asrêp",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HADAP": {
+    "indonesia": "Hadap",
+    "jawa_ngoko": "Adhêp",
+    "jawa_krama": "Ajêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ADIK": {
+    "indonesia": "Adik",
+    "jawa_ngoko": "Adhi",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Rayi",
+    "priority": "P1"
+  },
+  "JAUH": {
+    "indonesia": "Jauh",
+    "jawa_ngoko": "Adoh",
+    "jawa_krama": "Têbih",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "JUAL": {
+    "indonesia": "Jual",
+    "jawa_ngoko": "Dol",
+    "jawa_krama": "Sade",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SABUNG": {
+    "indonesia": "Sabung",
+    "jawa_ngoko": "Adon",
+    "jawa_krama": "Abên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENYABUNG": {
+    "indonesia": "Menyabung",
+    "jawa_ngoko": "Adu",
+    "jawa_krama": "Abên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MANDI": {
+    "indonesia": "Mandi",
+    "jawa_ngoko": "Adus",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Siram",
+    "priority": "nan"
+  },
+  "AGAMA": {
+    "indonesia": "Agama",
+    "jawa_ngoko": "Agama",
+    "jawa_krama": "Agami",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "CEPAT": {
+    "indonesia": "Cepat",
+    "jawa_ngoko": "Cêpêt",
+    "jawa_krama": "Enggal",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BARU SAJA": {
+    "indonesia": "Baru saja",
+    "jawa_ngoko": "Mêntas",
+    "jawa_krama": "Nêmbe",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JANGAN": {
+    "indonesia": "Jangan",
+    "jawa_ngoko": "Aja",
+    "jawa_krama": "Sampun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TEMPAT NASI": {
+    "indonesia": "Tempat nasi",
+    "jawa_ngoko": "Ajang",
+    "jawa_krama": "Ajang",
+    "jawa_krama_inggil": "Ambêng",
+    "priority": "nan"
+  },
+  "NILAI, HARGA, MARTABAT": {
+    "indonesia": "Nilai, Harga, Martabat",
+    "jawa_ngoko": "Aji",
+    "jawa_krama": "Aos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MAJU": {
+    "indonesia": "Maju",
+    "jawa_ngoko": "Maju",
+    "jawa_krama": "Majeng",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BANYAK": {
+    "indonesia": "Banyak",
+    "jawa_ngoko": "Akeh",
+    "jawa_krama": "Kathah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SURUH": {
+    "indonesia": "Suruh",
+    "jawa_ngoko": "Akon",
+    "jawa_krama": "Akên",
+    "jawa_krama_inggil": "Dhawuh",
+    "priority": "nan"
+  },
+  "AMPUN, MAAF": {
+    "indonesia": "Ampun, Maaf",
+    "jawa_ngoko": "Aksama",
+    "jawa_krama": "Aksami",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SAYA": {
+    "indonesia": "Saya",
+    "jawa_ngoko": "Tak-",
+    "jawa_krama": "Kula-",
+    "jawa_krama_inggil": "Dalem-, Kawula-",
+    "priority": "P1"
+  },
+  "MENGAKU": {
+    "indonesia": "Mengaku",
+    "jawa_ngoko": "Ngaku",
+    "jawa_krama": "Ngakên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BURUK, JELEK": {
+    "indonesia": "Buruk, Jelek",
+    "jawa_ngoko": "Ala",
+    "jawa_krama": "Awon",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HALANGAN": {
+    "indonesia": "Halangan",
+    "jawa_ngoko": "Kara-kara",
+    "jawa_krama": "Kawis-kawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HUTAN": {
+    "indonesia": "Hutan",
+    "jawa_ngoko": "Alas",
+    "jawa_krama": "Wana",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "CINCIN": {
+    "indonesia": "Cincin",
+    "jawa_ngoko": "Ali-ali",
+    "jawa_krama": "Sêsupe",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PINDAH": {
+    "indonesia": "Pindah",
+    "jawa_ngoko": "Alih",
+    "jawa_krama": "Pindhah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ALIS": {
+    "indonesia": "Alis",
+    "jawa_ngoko": "Alis",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Imba",
+    "priority": "P1"
+  },
+  "KARENA": {
+    "indonesia": "Karena",
+    "jawa_ngoko": "Mêrga",
+    "jawa_krama": "Margi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LEBAR": {
+    "indonesia": "Lebar",
+    "jawa_ngoko": "Amba",
+    "jawa_krama": "Wiyar",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BAU": {
+    "indonesia": "Bau",
+    "jawa_ngoko": "Ambu",
+    "jawa_krama": "Ambêt",
+    "jawa_krama_inggil": "Ganda",
+    "priority": "P1"
+  },
+  "CIUM": {
+    "indonesia": "Cium",
+    "jawa_ngoko": "Ambung",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Aras",
+    "priority": "P1"
+  },
+  "AMBIL": {
+    "indonesia": "Ambil",
+    "jawa_ngoko": "Pek",
+    "jawa_krama": "Pêndhêt",
+    "jawa_krama_inggil": "Pundhut",
+    "priority": "nan"
+  },
+  "MINTA MAAF": {
+    "indonesia": "Minta maaf",
+    "jawa_ngoko": "Amit",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Nuwun sewu",
+    "priority": "nan"
+  },
+  "SINGGAH": {
+    "indonesia": "Singgah",
+    "jawa_ngoko": "Ampir",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pinarak",
+    "priority": "nan"
+  },
+  "ADA": {
+    "indonesia": "Ada",
+    "jawa_ngoko": "Ana",
+    "jawa_krama": "Wonten",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "ANAK": {
+    "indonesia": "Anak",
+    "jawa_ngoko": "Bocah",
+    "jawa_krama": "Lare",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PERCAYA": {
+    "indonesia": "Percaya",
+    "jawa_ngoko": "Pracaya",
+    "jawa_krama": "Pitados",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SULIT": {
+    "indonesia": "Sulit",
+    "jawa_ngoko": "Angel",
+    "jawa_krama": "Awrat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ASALKAN": {
+    "indonesia": "Asalkan",
+    "jawa_ngoko": "Anggêr",
+    "jawa_krama": "Saugêr",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PERGI": {
+    "indonesia": "Pergi",
+    "jawa_ngoko": "Lunga",
+    "jawa_krama": "Kesah",
+    "jawa_krama_inggil": "Tindak",
+    "priority": "nan"
+  },
+  "PAKAI": {
+    "indonesia": "Pakai",
+    "jawa_ngoko": "Ênggo",
+    "jawa_krama": "Êngge",
+    "jawa_krama_inggil": "Agêm",
+    "priority": "nan"
+  },
+  "MENGGEMBALA": {
+    "indonesia": "Menggembala",
+    "jawa_ngoko": "Angon",
+    "jawa_krama": "Angen",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ANI-ANI (ALAT PENUAI PADI)": {
+    "indonesia": "Ani-ani (Alat penuai padi)",
+    "jawa_ngoko": "Ani-ani",
+    "jawa_krama": "Pugut",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MUDA": {
+    "indonesia": "Muda",
+    "jawa_ngoko": "Nom",
+    "jawa_krama": "Nem",
+    "jawa_krama_inggil": "Timur",
+    "priority": "P1"
+  },
+  "ANTARA": {
+    "indonesia": "Antara",
+    "jawa_ngoko": "Antara",
+    "jawa_krama": "Antawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "IKUT": {
+    "indonesia": "Ikut",
+    "jawa_ngoko": "Melu",
+    "jawa_krama": "Tumut",
+    "jawa_krama_inggil": "Dherek",
+    "priority": "P1"
+  },
+  "BARU": {
+    "indonesia": "Baru",
+    "jawa_ngoko": "Anyar",
+    "jawa_krama": "Enggal",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "APA": {
+    "indonesia": "Apa",
+    "jawa_ngoko": "Apa",
+    "jawa_krama": "Punapa",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BAIK, BAGUS": {
+    "indonesia": "Baik, Bagus",
+    "jawa_ngoko": "Apik",
+    "jawa_krama": "Sae",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MAAF": {
+    "indonesia": "Maaf",
+    "jawa_ngoko": "Apura",
+    "jawa_krama": "Apuntên",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MAKSUD, TUJUAN": {
+    "indonesia": "Maksud, Tujuan",
+    "jawa_ngoko": "Arah",
+    "jawa_krama": "Angkah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "NAMA": {
+    "indonesia": "Nama",
+    "jawa_ngoko": "Sêbut",
+    "jawa_krama": "Sêbatan",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "JRANG": {
+    "indonesia": "Jrang",
+    "jawa_ngoko": "Arang",
+    "jawa_krama": "Awis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MAU": {
+    "indonesia": "Mau",
+    "jawa_ngoko": "Gêlêm",
+    "jawa_krama": "Purun",
+    "jawa_krama_inggil": "Kêrsa",
+    "priority": "P1"
+  },
+  "MAKNA": {
+    "indonesia": "Makna",
+    "jawa_ngoko": "Arti",
+    "jawa_krama": "Artos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "RENDAH": {
+    "indonesia": "Rendah",
+    "jawa_ngoko": "Asor",
+    "jawa_krama": "Awon",
+    "jawa_krama_inggil": "Andhap",
+    "priority": "nan"
+  },
+  "ANJING": {
+    "indonesia": "Anjing",
+    "jawa_ngoko": "Asu",
+    "jawa_krama": "Sêgawon",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HATI": {
+    "indonesia": "Hati",
+    "jawa_ngoko": "Ati",
+    "jawa_krama": "Manah",
+    "jawa_krama_inggil": "Penggalih",
+    "priority": "P1"
+  },
+  "TERSENDAWA": {
+    "indonesia": "Tersendawa",
+    "jawa_ngoko": "Atop",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Sêgu",
+    "priority": "nan"
+  },
+  "BERI": {
+    "indonesia": "Beri",
+    "jawa_ngoko": "Aweh",
+    "jawa_krama": "Nyukani",
+    "jawa_krama_inggil": "Maringi",
+    "priority": "P1"
+  },
+  "BADAN, TUBUH": {
+    "indonesia": "Badan, Tubuh",
+    "jawa_ngoko": "Awak",
+    "jawa_krama": "Badan",
+    "jawa_krama_inggil": "Salira",
+    "priority": "nan"
+  },
+  "SIANG": {
+    "indonesia": "Siang",
+    "jawa_ngoko": "Rina",
+    "jawa_krama": "Rintên",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BARANGKALI": {
+    "indonesia": "Barangkali",
+    "jawa_ngoko": "Ayake",
+    "jawa_krama": "Mbok mênawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MARILAH": {
+    "indonesia": "Marilah",
+    "jawa_ngoko": "Ayo",
+    "jawa_krama": "Mangga",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEMUDIAN, LANTAS": {
+    "indonesia": "Kemudian, Lantas",
+    "jawa_ngoko": "Bacut",
+    "jawa_krama": "Lajêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HANYA": {
+    "indonesia": "Hanya",
+    "jawa_ngoko": "Mung",
+    "jawa_krama": "Namung, Naming",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "AKAN": {
+    "indonesia": "Akan",
+    "jawa_ngoko": "Bakal",
+    "jawa_krama": "Badhe",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "NAMPAN": {
+    "indonesia": "Nampan",
+    "jawa_ngoko": "Baki",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Panadhahan",
+    "priority": "nan"
+  },
+  "TEMBAKAU": {
+    "indonesia": "Tembakau",
+    "jawa_ngoko": "Bako",
+    "jawa_krama": "Sata",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "POKOK": {
+    "indonesia": "Pokok",
+    "jawa_ngoko": "Baku",
+    "jawa_krama": "Bakên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEMBALI": {
+    "indonesia": "Kembali",
+    "jawa_ngoko": "Bali",
+    "jawa_krama": "Wangsul",
+    "jawa_krama_inggil": "Kondur",
+    "priority": "nan"
+  },
+  "TULANG": {
+    "indonesia": "Tulang",
+    "jawa_ngoko": "Balung",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Tosan",
+    "priority": "nan"
+  },
+  "DIBELENGGU": {
+    "indonesia": "Dibelenggu",
+    "jawa_ngoko": "Banda",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dipunbêsta",
+    "priority": "nan"
+  },
+  "SANGAT": {
+    "indonesia": "Sangat",
+    "jawa_ngoko": "Bangêt",
+    "jawa_krama": "Sangêt",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TIDAK MENURUT": {
+    "indonesia": "Tidak Menurut",
+    "jawa_ngoko": "Bangga",
+    "jawa_krama": "Banggi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PINGGANG": {
+    "indonesia": "Pinggang",
+    "jawa_ngoko": "Bangkekan",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Wangkingan",
+    "priority": "nan"
+  },
+  "BANJIR": {
+    "indonesia": "Banjir",
+    "jawa_ngoko": "Banjir",
+    "jawa_krama": "Bêna",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LALU, SETELAH ITU": {
+    "indonesia": "Lalu, Setelah itu",
+    "jawa_ngoko": "Banjur",
+    "jawa_krama": "Lajêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BANTAL": {
+    "indonesia": "Bantal",
+    "jawa_ngoko": "Bantal",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kajang",
+    "priority": "nan"
+  },
+  "AIR": {
+    "indonesia": "Air",
+    "jawa_ngoko": "Banyu",
+    "jawa_krama": "Toya",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BAPAK": {
+    "indonesia": "Bapak",
+    "jawa_ngoko": "Bapa, Bapak",
+    "jawa_krama": "Rama",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERSAMA": {
+    "indonesia": "Bersama",
+    "jawa_ngoko": "Barêng",
+    "jawa_krama": "Sarêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SULUNG": {
+    "indonesia": "Sulung",
+    "jawa_ngoko": "Barêp",
+    "jawa_krama": "Pambajêng",
+    "jawa_krama_inggil": "Pambayun",
+    "priority": "nan"
+  },
+  "BATU BATA": {
+    "indonesia": "Batu bata",
+    "jawa_ngoko": "Bata",
+    "jawa_krama": "Banon",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BATIK": {
+    "indonesia": "Batik",
+    "jawa_ngoko": "Bathik",
+    "jawa_krama": "Sêrat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DAHI": {
+    "indonesia": "Dahi",
+    "jawa_ngoko": "Bathuk",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Palarapan",
+    "priority": "P1"
+  },
+  "BATIN": {
+    "indonesia": "Batin",
+    "jawa_ngoko": "Batin",
+    "jawa_krama": "Batos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HAMBA, PEMBANTU": {
+    "indonesia": "Hamba, Pembantu",
+    "jawa_ngoko": "Batur",
+    "jawa_krama": "Rencang",
+    "jawa_krama_inggil": "Abdi",
+    "priority": "nan"
+  },
+  "ITIK": {
+    "indonesia": "Itik",
+    "jawa_ngoko": "Bebek",
+    "jawa_krama": "Kambangan",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BEDA": {
+    "indonesia": "Beda",
+    "jawa_ngoko": "Beda",
+    "jawa_krama": "Bêntên",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BIARLAH": {
+    "indonesia": "Biarlah",
+    "jawa_ngoko": "Ben, Karêben",
+    "jawa_krama": "Kajêngipun",
+    "jawa_krama_inggil": "Kêrsanipun",
+    "priority": "nan"
+  },
+  "BESUK": {
+    "indonesia": "Besuk",
+    "jawa_ngoko": "Sesuk",
+    "jawa_krama": "Benjing",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JARIK (UNTUK PRIA)": {
+    "indonesia": "Jarik (untuk pria)",
+    "jawa_ngoko": "Bêbêd",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Nyamping",
+    "priority": "nan"
+  },
+  "BUANG AIR BESAR": {
+    "indonesia": "Buang air besar",
+    "jawa_ngoko": "Ising",
+    "jawa_krama": "Bêbucal",
+    "jawa_krama_inggil": "Kêbêlêt, Bobotan",
+    "priority": "nan"
+  },
+  "BAIK": {
+    "indonesia": "Baik",
+    "jawa_ngoko": "Bêcik",
+    "jawa_krama": "Sae",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SENJATA": {
+    "indonesia": "Senjata",
+    "jawa_ngoko": "Bêdhil",
+    "jawa_krama": "Sênjata",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PIPA ROKOK": {
+    "indonesia": "Pipa rokok",
+    "jawa_ngoko": "Bêdudan",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Watangan",
+    "priority": "nan"
+  },
+  "BENAR, BETUL": {
+    "indonesia": "Benar, Betul",
+    "jawa_ngoko": "Bênêr",
+    "jawa_krama": "Lêrês",
+    "jawa_krama_inggil": "Kasinggihan",
+    "priority": "nan"
+  },
+  "MALAM": {
+    "indonesia": "Malam",
+    "jawa_ngoko": "Wêngi",
+    "jawa_krama": "Dalu",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERAS": {
+    "indonesia": "Beras",
+    "jawa_ngoko": "Bêras",
+    "jawa_krama": "Wos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DAPAT, BISA": {
+    "indonesia": "Dapat, Bisa",
+    "jawa_ngoko": "Bisa",
+    "jawa_krama": "Sagêd",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DULU": {
+    "indonesia": "Dulu",
+    "jawa_ngoko": "Biyen",
+    "jawa_krama": "Riyin",
+    "jawa_krama_inggil": "Rumiyin",
+    "priority": "P1"
+  },
+  "IBU": {
+    "indonesia": "Ibu",
+    "jawa_ngoko": "Êmbok",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Ibu",
+    "priority": "P1"
+  },
+  "BERATNYA": {
+    "indonesia": "Beratnya",
+    "jawa_ngoko": "Bobot",
+    "jawa_krama": "Wawratipun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUAMI/ISTRI": {
+    "indonesia": "Suami/Istri",
+    "jawa_ngoko": "Bojo",
+    "jawa_krama": "Semah",
+    "jawa_krama_inggil": "Garwa",
+    "priority": "nan"
+  },
+  "BOKONG": {
+    "indonesia": "Bokong",
+    "jawa_ngoko": "Bokong",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pocong",
+    "priority": "nan"
+  },
+  "BENANG": {
+    "indonesia": "Benang",
+    "jawa_ngoko": "Bolah",
+    "jawa_krama": "Bênang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BEDAK": {
+    "indonesia": "Bedak",
+    "jawa_ngoko": "Pupur",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Tasik",
+    "priority": "nan"
+  },
+  "KUMIS": {
+    "indonesia": "Kumis",
+    "jawa_ngoko": "Brengos",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Rawis",
+    "priority": "nan"
+  },
+  "SELESAI": {
+    "indonesia": "Selesai",
+    "jawa_ngoko": "Buyar",
+    "jawa_krama": "Rampung",
+    "jawa_krama_inggil": "Rampung",
+    "priority": "nan"
+  },
+  "RUSAK": {
+    "indonesia": "Rusak",
+    "jawa_ngoko": "Rusak",
+    "jawa_krama": "Risak",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BUDI, PIKIRAN, AKAL": {
+    "indonesia": "Budi, Pikiran, Akal",
+    "jawa_ngoko": "Budi",
+    "jawa_krama": "Manah",
+    "jawa_krama_inggil": "Pênggalih",
+    "priority": "nan"
+  },
+  "BERANGKAT": {
+    "indonesia": "Berangkat",
+    "jawa_ngoko": "Budhal",
+    "jawa_krama": "Bidhal",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BUKA": {
+    "indonesia": "Buka",
+    "jawa_ngoko": "Bukak",
+    "jawa_krama": "Bikak",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "GEMBIRA": {
+    "indonesia": "Gembira",
+    "jawa_ngoko": "Bungah",
+    "jawa_krama": "Bingah",
+    "jawa_krama_inggil": "Rêna",
+    "priority": "nan"
+  },
+  "BELAKANG": {
+    "indonesia": "Belakang",
+    "jawa_ngoko": "Ungkur",
+    "jawa_krama": "Pêngkêr",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BURU": {
+    "indonesia": "Buru",
+    "jawa_ngoko": "Buru",
+    "jawa_krama": "Bujêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BURUH, PEKERJA": {
+    "indonesia": "Buruh, Pekerja",
+    "jawa_ngoko": "Buruh",
+    "jawa_krama": "Bêrah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "RAKSASA": {
+    "indonesia": "Raksasa",
+    "jawa_ngoko": "Buta",
+    "jawa_krama": "Danawa",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BUTUH": {
+    "indonesia": "Butuh",
+    "jawa_ngoko": "Butuh",
+    "jawa_krama": "Bêtah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BUANG": {
+    "indonesia": "Buang",
+    "jawa_ngoko": "Buwang",
+    "jawa_krama": "Bucal",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERBICARA": {
+    "indonesia": "Berbicara",
+    "jawa_ngoko": "Gunêm",
+    "jawa_krama": "Ginêm",
+    "jawa_krama_inggil": "Ngêndika",
+    "priority": "nan"
+  },
+  "MULUT": {
+    "indonesia": "Mulut",
+    "jawa_ngoko": "Cangkêm",
+    "jawa_krama": "Lesan",
+    "jawa_krama_inggil": "Tutuk",
+    "priority": "nan"
+  },
+  "CANGKIR": {
+    "indonesia": "Cangkir",
+    "jawa_ngoko": "Cangkir",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Tuwung",
+    "priority": "nan"
+  },
+  "CERITA": {
+    "indonesia": "Cerita",
+    "jawa_ngoko": "Crita",
+    "jawa_krama": "Criyos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "OMONGAN": {
+    "indonesia": "Omongan",
+    "jawa_ngoko": "Caturan",
+    "jawa_krama": "Wicantên",
+    "jawa_krama_inggil": "Ngendikan",
+    "priority": "nan"
+  },
+  "DISIAPKAN": {
+    "indonesia": "Disiapkan",
+    "jawa_ngoko": "Cawis",
+    "jawa_krama": "Cawisaken",
+    "jawa_krama_inggil": "Caosaken",
+    "priority": "nan"
+  },
+  "BABI HUTAN": {
+    "indonesia": "Babi hutan",
+    "jawa_ngoko": "Celeng",
+    "jawa_krama": "Andhapan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERCEBOK": {
+    "indonesia": "Bercebok",
+    "jawa_ngoko": "Cewok",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Cawik",
+    "priority": "nan"
+  },
+  "DEKAT": {
+    "indonesia": "Dekat",
+    "jawa_ngoko": "Cêdhak",
+    "jawa_krama": "Cêlak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DIPEGANG": {
+    "indonesia": "Dipegang",
+    "jawa_ngoko": "Cêkêl",
+    "jawa_krama": "Cêpêng",
+    "jawa_krama_inggil": "Dipunasta",
+    "priority": "nan"
+  },
+  "PENDEK, RENDAH": {
+    "indonesia": "Pendek, Rendah",
+    "jawa_ngoko": "Cêndhek",
+    "jawa_krama": "Andhap",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TENGKUK": {
+    "indonesia": "Tengkuk",
+    "jawa_ngoko": "Githok",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Griwa",
+    "priority": "nan"
+  },
+  "KECIL": {
+    "indonesia": "Kecil",
+    "jawa_ngoko": "Cilik",
+    "jawa_krama": "Alit",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "COBA": {
+    "indonesia": "Coba",
+    "jawa_ngoko": "Coba",
+    "jawa_krama": "Cobi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "LEPAS BAJU": {
+    "indonesia": "Lepas baju",
+    "jawa_ngoko": "Cucul",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Lukar",
+    "priority": "nan"
+  },
+  "CUKUP": {
+    "indonesia": "Cukup",
+    "jawa_ngoko": "Sêdhêng",
+    "jawa_krama": "Cêkap",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERCUKUR": {
+    "indonesia": "Bercukur",
+    "jawa_ngoko": "Cukur",
+    "jawa_krama": "Pangkas",
+    "jawa_krama_inggil": "Paras",
+    "priority": "nan"
+  },
+  "SETUBUH": {
+    "indonesia": "Setubuh",
+    "jawa_ngoko": "Cumbana",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Saresmi",
+    "priority": "nan"
+  },
+  "SUNTING": {
+    "indonesia": "Sunting",
+    "jawa_ngoko": "Cundhuk",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Sangsangan",
+    "priority": "nan"
+  },
+  "PIJIT": {
+    "indonesia": "Pijit",
+    "jawa_ngoko": "Pijêt",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pêtêk",
+    "priority": "P1"
+  },
+  "JADI": {
+    "indonesia": "Jadi",
+    "jawa_ngoko": "Sida",
+    "jawa_krama": "Siyos",
+    "jawa_krama_inggil": "Estu",
+    "priority": "P1"
+  },
+  "DAGANG": {
+    "indonesia": "Dagang",
+    "jawa_ngoko": "Dagang",
+    "jawa_krama": "Gramen",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JALAN": {
+    "indonesia": "Jalan",
+    "jawa_ngoko": "Laku",
+    "jawa_krama": "Lampah",
+    "jawa_krama_inggil": "Tindak",
+    "priority": "nan"
+  },
+  "BERHIAS": {
+    "indonesia": "Berhias",
+    "jawa_ngoko": "Dandan",
+    "jawa_krama": "Dandos",
+    "jawa_krama_inggil": "Busana",
+    "priority": "nan"
+  },
+  "PELAKSANAAN TUGAS": {
+    "indonesia": "Pelaksanaan tugas",
+    "jawa_ngoko": "Darma",
+    "jawa_krama": "Darmi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PANJANG": {
+    "indonesia": "Panjang",
+    "jawa_ngoko": "Dawa",
+    "jawa_krama": "Panjang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TARUH": {
+    "indonesia": "Taruh",
+    "jawa_ngoko": "Dokok",
+    "jawa_krama": "Dekek",
+    "jawa_krama_inggil": "Paring",
+    "priority": "nan"
+  },
+  "DESA": {
+    "indonesia": "Desa",
+    "jawa_ngoko": "Desa",
+    "jawa_krama": "Dhusun",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "LIHAT": {
+    "indonesia": "Lihat",
+    "jawa_ngoko": "Tonton",
+    "jawa_krama": "Tingal",
+    "jawa_krama_inggil": "Priksa",
+    "priority": "nan"
+  },
+  "AMAL": {
+    "indonesia": "Amal",
+    "jawa_ngoko": "Dêrma",
+    "jawa_krama": "Drêma",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "DADA": {
+    "indonesia": "dada",
+    "jawa_ngoko": "Dhadha",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Jaja",
+    "priority": "P1"
+  },
+  "TAMU": {
+    "indonesia": "Tamu",
+    "jawa_ngoko": "Dhayoh",
+    "jawa_krama": "Tamu",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PADA WAKTU": {
+    "indonesia": "Pada waktu",
+    "jawa_ngoko": "Dhêk",
+    "jawa_krama": "Kala",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SENANG": {
+    "indonesia": "Senang",
+    "jawa_ngoko": "Dhêmên",
+    "jawa_krama": "Rêmên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LUTUT": {
+    "indonesia": "Lutut",
+    "jawa_ngoko": "Dhêngkul",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Jêngku",
+    "priority": "nan"
+  },
+  "TAHU, MENGERTI": {
+    "indonesia": "Tahu, Mengerti",
+    "jawa_ngoko": "Dhêngêr",
+    "jawa_krama": "Sumêrêp",
+    "jawa_krama_inggil": "Priksa",
+    "priority": "nan"
+  },
+  "SENDIRI": {
+    "indonesia": "Sendiri",
+    "jawa_ngoko": "Dhewe",
+    "jawa_krama": "Piyambak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KETIKA": {
+    "indonesia": "Ketika",
+    "jawa_ngoko": "Dhek",
+    "jawa_krama": "Kala",
+    "jawa_krama_inggil": "Nalika",
+    "priority": "nan"
+  },
+  "DAHULU": {
+    "indonesia": "Dahulu",
+    "jawa_ngoko": "Dhisik",
+    "jawa_krama": "Rumiyin",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TURUN": {
+    "indonesia": "Turun",
+    "jawa_ngoko": "Udhun",
+    "jawa_krama": "Mandhap",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "UANG": {
+    "indonesia": "Uang",
+    "jawa_ngoko": "Dhuwit",
+    "jawa_krama": "Yatra",
+    "jawa_krama_inggil": "Arta",
+    "priority": "P1"
+  },
+  "TINGGI": {
+    "indonesia": "Tinggi",
+    "jawa_ngoko": "Dhuwur",
+    "jawa_krama": "Inggil",
+    "jawa_krama_inggil": "Luhur",
+    "priority": "nan"
+  },
+  "HARI": {
+    "indonesia": "Hari",
+    "jawa_ngoko": "Dina",
+    "jawa_krama": "Dintên",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "LAMPU": {
+    "indonesia": "Lampu",
+    "jawa_ngoko": "Diyan",
+    "jawa_krama": "Dilah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KERTAS": {
+    "indonesia": "Kertas",
+    "jawa_ngoko": "Dluwang",
+    "jawa_krama": "Dlancang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DODOT": {
+    "indonesia": "Dodot",
+    "jawa_ngoko": "Dodod",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kampuh",
+    "priority": "nan"
+  },
+  "MAIN-MAIN": {
+    "indonesia": "Main-main",
+    "jawa_ngoko": "Dolan",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Amêng-amêng",
+    "priority": "nan"
+  },
+  "JARUM": {
+    "indonesia": "Jarum",
+    "jawa_ngoko": "Dom",
+    "jawa_krama": "Jarum",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JARI": {
+    "indonesia": "Jari",
+    "jawa_ngoko": "Driji",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Racikan",
+    "priority": "P1"
+  },
+  "MENGADU": {
+    "indonesia": "Mengadu",
+    "jawa_ngoko": "Du, Ngedu",
+    "jawa_krama": "Ngaben",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BUKAN": {
+    "indonesia": "Bukan",
+    "jawa_ngoko": "Dudu",
+    "jawa_krama": "Sanes",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DUGA": {
+    "indonesia": "Duga",
+    "jawa_ngoko": "Duga",
+    "jawa_krama": "Dugi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MENYUAPI": {
+    "indonesia": "Menyuapi",
+    "jawa_ngoko": "Dulang",
+    "jawa_krama": "Ndulang",
+    "jawa_krama_inggil": "Ndahari",
+    "priority": "nan"
+  },
+  "SAUDARA": {
+    "indonesia": "Saudara",
+    "jawa_ngoko": "Dulur",
+    "jawa_krama": "Dherek",
+    "jawa_krama_inggil": "Santana",
+    "priority": "nan"
+  },
+  "BELUM": {
+    "indonesia": "Belum",
+    "jawa_ngoko": "Durung",
+    "jawa_krama": "Dereng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PUNYA": {
+    "indonesia": "Punya",
+    "jawa_ngoko": "Duwe",
+    "jawa_krama": "Gadhah",
+    "jawa_krama_inggil": "Kagungan",
+    "priority": "nan"
+  },
+  "GILA": {
+    "indonesia": "Gila",
+    "jawa_ngoko": "Edan",
+    "jawa_krama": "Ewah",
+    "jawa_krama_inggil": "Gêrah ewah",
+    "priority": "P1"
+  },
+  "JELEK": {
+    "indonesia": "Jelek",
+    "jawa_ngoko": "Elek",
+    "jawa_krama": "Awon",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "INGAT": {
+    "indonesia": "Ingat",
+    "jawa_ngoko": "Eling",
+    "jawa_krama": "Emut",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ILMU": {
+    "indonesia": "Ilmu",
+    "jawa_ngoko": "Ilmu",
+    "jawa_krama": "Elmu",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "ENAK": {
+    "indonesia": "Enak",
+    "jawa_ngoko": "Enak",
+    "jawa_krama": "Eca",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "HITUNG": {
+    "indonesia": "Hitung",
+    "jawa_ngoko": "Wilang",
+    "jawa_krama": "Wical",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PAGI": {
+    "indonesia": "Pagi",
+    "jawa_ngoko": "Esuk",
+    "jawa_krama": "Enjing",
+    "jawa_krama_inggil": "Enjing",
+    "priority": "P1"
+  },
+  "REPOT": {
+    "indonesia": "Repot",
+    "jawa_ngoko": "Rubêd",
+    "jawa_krama": "Ribêd",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MENJAUH": {
+    "indonesia": "Menjauh",
+    "jawa_ngoko": "Êdoh",
+    "jawa_krama": "Nêbih",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMINDAH": {
+    "indonesia": "Memindah",
+    "jawa_ngoko": "Êlih",
+    "jawa_krama": "Mindah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "AIRMATA": {
+    "indonesia": "Airmata",
+    "jawa_ngoko": "Êluh",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Waspa",
+    "priority": "nan"
+  },
+  "EMAS": {
+    "indonesia": "Emas",
+    "jawa_ngoko": "Êmas",
+    "jawa_krama": "Jene",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KAKEK": {
+    "indonesia": "Kakek",
+    "jawa_ngoko": "Êmbah",
+    "jawa_krama": "Simbah",
+    "jawa_krama_inggil": "Êyang",
+    "priority": "nan"
+  },
+  "TIDAK TAHU": {
+    "indonesia": "Tidak Tahu",
+    "jawa_ngoko": "Êmbuh",
+    "jawa_krama": "Kilap",
+    "jawa_krama_inggil": "Duka",
+    "priority": "nan"
+  },
+  "UBUN-UBUN": {
+    "indonesia": "Ubun-ubun",
+    "jawa_ngoko": "Êmbun-êmbun",
+    "jawa_krama": "Sundhulan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TIDAK MAU": {
+    "indonesia": "Tidak mau",
+    "jawa_ngoko": "Êmoh",
+    "jawa_krama": "Botên purun",
+    "jawa_krama_inggil": "Boten Kêrsa",
+    "priority": "nan"
+  },
+  "MEMUAT": {
+    "indonesia": "Memuat",
+    "jawa_ngoko": "Êmot",
+    "jawa_krama": "Ngêwrat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MABUK": {
+    "indonesia": "Mabuk",
+    "jawa_ngoko": "Êndêm",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Wuru",
+    "priority": "nan"
+  },
+  "KEPALA": {
+    "indonesia": "Kepala",
+    "jawa_ngoko": "Êndhas",
+    "jawa_krama": "Sirah",
+    "jawa_krama_inggil": "Mustaka",
+    "priority": "nan"
+  },
+  "HENTI": {
+    "indonesia": "Henti",
+    "jawa_ngoko": "Êndhêg",
+    "jawa_krama": "Kendêl",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TELUR": {
+    "indonesia": "Telur",
+    "jawa_ngoko": "Êndhog",
+    "jawa_krama": "Tigan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MANA": {
+    "indonesia": "Mana",
+    "jawa_ngoko": "Êndi",
+    "jawa_krama": "Pundi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "DIAM": {
+    "indonesia": "Diam",
+    "jawa_ngoko": "Enêng",
+    "jawa_krama": "Mendêl",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "ARAH": {
+    "indonesia": "Arah",
+    "jawa_ngoko": "Êner",
+    "jawa_krama": "Lêrês",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "TEMPAT": {
+    "indonesia": "Tempat",
+    "jawa_ngoko": "Panggonan",
+    "jawa_krama": "Panggenan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HABIS": {
+    "indonesia": "Habis",
+    "jawa_ngoko": "Êntek",
+    "jawa_krama": "Telas",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TUNGGU": {
+    "indonesia": "Tunggu",
+    "jawa_ngoko": "Tunggu",
+    "jawa_krama": "Têngga",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KENTUT": {
+    "indonesia": "Kentut",
+    "jawa_ngoko": "Kêpêntut",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kêsarib",
+    "priority": "nan"
+  },
+  "TAWAR": {
+    "indonesia": "Tawar",
+    "jawa_ngoko": "Ênyang",
+    "jawa_krama": "Awis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGGADAIKAN": {
+    "indonesia": "Menggadaikan",
+    "jawa_ngoko": "Gadhe",
+    "jawa_krama": "Nggantos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMINJAM": {
+    "indonesia": "Meminjam",
+    "jawa_ngoko": "Gadhuh",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Ngampil",
+    "priority": "nan"
+  },
+  "GAJAH": {
+    "indonesia": "Gajah",
+    "jawa_ngoko": "Gajah",
+    "jawa_krama": "Liman",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ITULAH": {
+    "indonesia": "Itulah",
+    "jawa_ngoko": "Galo",
+    "jawa_krama": "Mênika lo",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SENJATA TAJAM": {
+    "indonesia": "Senjata tajam",
+    "jawa_ngoko": "Gaman",
+    "jawa_krama": "Dêdamêl",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "GAMELAN": {
+    "indonesia": "Gamelan",
+    "jawa_ngoko": "Gamêlan",
+    "jawa_krama": "Gangsa",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MUDAH": {
+    "indonesia": "Mudah",
+    "jawa_ngoko": "Gampang",
+    "jawa_krama": "Gampil",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LENGKAP": {
+    "indonesia": "Lengkap",
+    "jawa_ngoko": "Gênêp",
+    "jawa_krama": "Jangkêp",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "GANTI": {
+    "indonesia": "Ganti",
+    "jawa_ngoko": "Gênti",
+    "jawa_krama": "Gêntos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PANTING": {
+    "indonesia": "Panting",
+    "jawa_ngoko": "Gati",
+    "jawa_krama": "Gatos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BAWA": {
+    "indonesia": "Bawa",
+    "jawa_ngoko": "Gawa",
+    "jawa_krama": "Bekta",
+    "jawa_krama_inggil": "Asta",
+    "priority": "P1"
+  },
+  "MEMBUAT": {
+    "indonesia": "Membuat",
+    "jawa_ngoko": "Gawe",
+    "jawa_krama": "Damel",
+    "jawa_krama_inggil": "Ngasta",
+    "priority": "nan"
+  },
+  "MENGAPA": {
+    "indonesia": "Mengapa",
+    "jawa_ngoko": "Geneya",
+    "jawa_krama": "Kenging Mênapa",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PUKUL": {
+    "indonesia": "Pukul",
+    "jawa_ngoko": "Gêbug",
+    "jawa_krama": "Gêbag",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PISANG": {
+    "indonesia": "Pisang",
+    "jawa_ngoko": "Gêdhang",
+    "jawa_krama": "Pisang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BESAR": {
+    "indonesia": "Besar",
+    "jawa_ngoko": "Gêdhe",
+    "jawa_krama": "Agêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SERBA BANYAK": {
+    "indonesia": "Serba banyak",
+    "jawa_ngoko": "Gêdhen",
+    "jawa_krama": "Agengan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PUNGGUNG": {
+    "indonesia": "Punggung",
+    "jawa_ngoko": "Gêgêr",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pêngkêran",
+    "priority": "nan"
+  },
+  "GELANG": {
+    "indonesia": "Gelang",
+    "jawa_ngoko": "Gêlang",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Binggêl",
+    "priority": "nan"
+  },
+  "GELUNG": {
+    "indonesia": "Gelung",
+    "jawa_ngoko": "Gêlung",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Ukêl",
+    "priority": "nan"
+  },
+  "BURUNG PUYUH": {
+    "indonesia": "Burung puyuh",
+    "jawa_ngoko": "Gêmak",
+    "jawa_krama": "Puyuh",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MERAWAT DENGAN BAIK": {
+    "indonesia": "Merawat dengan baik",
+    "jawa_ngoko": "Gumati",
+    "jawa_krama": "Gumatos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PUTRI": {
+    "indonesia": "Putri",
+    "jawa_ngoko": "Gêndhuk",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Nini",
+    "priority": "nan"
+  },
+  "API": {
+    "indonesia": "Api",
+    "jawa_ngoko": "Gêni",
+    "jawa_krama": "Latu",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KURUS": {
+    "indonesia": "Kurus",
+    "jawa_ngoko": "Kuru",
+    "jawa_krama": "Kêra",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DARAH": {
+    "indonesia": "Darah",
+    "jawa_ngoko": "Gêtih",
+    "jawa_krama": "Rah",
+    "jawa_krama_inggil": "Ludira",
+    "priority": "nan"
+  },
+  "POHON KELAPA": {
+    "indonesia": "Pohon kelapa",
+    "jawa_ngoko": "Glugu",
+    "jawa_krama": "Glêga",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMEGANG": {
+    "indonesia": "Memegang",
+    "jawa_ngoko": "Nyêkêl",
+    "jawa_krama": "Nyêpêng",
+    "jawa_krama_inggil": "Ngasta",
+    "priority": "nan"
+  },
+  "CAMBANG": {
+    "indonesia": "Cambang",
+    "jawa_ngoko": "Godheg",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Gumbala",
+    "priority": "nan"
+  },
+  "DAUN": {
+    "indonesia": "Daun",
+    "jawa_ngoko": "Godhong",
+    "jawa_krama": "Ron",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "CARI": {
+    "indonesia": "Cari",
+    "jawa_ngoko": "Golek",
+    "jawa_krama": "Pados",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BOHONG": {
+    "indonesia": "Bohong",
+    "jawa_ngoko": "Guroh",
+    "jawa_krama": "Dora",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BANGUN": {
+    "indonesia": "Bangun",
+    "jawa_ngoko": "Tangi",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Wungu",
+    "priority": "nan"
+  },
+  "GUGAT": {
+    "indonesia": "Gugat",
+    "jawa_ngoko": "Gugat",
+    "jawa_krama": "Gigat",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MENURUT": {
+    "indonesia": "Menurut",
+    "jawa_ngoko": "Gugu",
+    "jawa_krama": "Gêga",
+    "jawa_krama_inggil": "Ngestokaken",
+    "priority": "nan"
+  },
+  "GULA": {
+    "indonesia": "Gula",
+    "jawa_ngoko": "Gula",
+    "jawa_krama": "Gêndhis",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "LEHER": {
+    "indonesia": "Leher",
+    "jawa_ngoko": "Gulu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Jangga",
+    "priority": "P1"
+  },
+  "GUNA": {
+    "indonesia": "Guna",
+    "jawa_ngoko": "Guna",
+    "jawa_krama": "Gina",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "GUNUNG": {
+    "indonesia": "Gunung",
+    "jawa_ngoko": "Gunung",
+    "jawa_krama": "Rêdi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "GUSI": {
+    "indonesia": "Gusi",
+    "jawa_ngoko": "Gusi",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Wingkisan",
+    "priority": "P1"
+  },
+  "TAWA": {
+    "indonesia": "Tawa",
+    "jawa_ngoko": "Guyu",
+    "jawa_krama": "Gujeng",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "DICICIP": {
+    "indonesia": "Dicicip",
+    "jawa_ngoko": "Icip",
+    "jawa_krama": "Dipunincip",
+    "jawa_krama_inggil": "Dipunkêdhapi",
+    "priority": "nan"
+  },
+  "BULU MATA": {
+    "indonesia": "Bulu mata",
+    "jawa_ngoko": "Idêp",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Ibing",
+    "priority": "nan"
+  },
+  "BERKELILING": {
+    "indonesia": "Berkeliling",
+    "jawa_ngoko": "Idêr",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pêpara",
+    "priority": "nan"
+  },
+  "LUDAH": {
+    "indonesia": "Ludah",
+    "jawa_ngoko": "Idu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kêcoh",
+    "priority": "nan"
+  },
+  "TULANG RUSUK": {
+    "indonesia": "Tulang rusuk",
+    "jawa_ngoko": "Iga",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Unusan",
+    "priority": "nan"
+  },
+  "HIJAU": {
+    "indonesia": "Hijau",
+    "jawa_ngoko": "Ijo",
+    "jawa_krama": "Ijêm",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "TUKAR": {
+    "indonesia": "Tukar",
+    "jawa_ngoko": "Ijol",
+    "jawa_krama": "Lintu",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "ITU": {
+    "indonesia": "Itu",
+    "jawa_ngoko": "Kuwi",
+    "jawa_krama": "Niku",
+    "jawa_krama_inggil": "Punika",
+    "priority": "P1"
+  },
+  "IKAT KEPALA": {
+    "indonesia": "Ikat kepala",
+    "jawa_ngoko": "Ikêt",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dhêstar",
+    "priority": "nan"
+  },
+  "INI": {
+    "indonesia": "Ini",
+    "jawa_ngoko": "Kiyi",
+    "jawa_krama": "Mênika",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "HILANG": {
+    "indonesia": "Hilang",
+    "jawa_ngoko": "Ngilang",
+    "jawa_krama": "Ngical",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LIDAH": {
+    "indonesia": "Lidah",
+    "jawa_ngoko": "Ilat",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Lidah",
+    "priority": "P1"
+  },
+  "CERMIN": {
+    "indonesia": "Cermin",
+    "jawa_ngoko": "Pangilon",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Paningalan",
+    "priority": "nan"
+  },
+  "PERAM, MEMERAM": {
+    "indonesia": "Peram, Memeram",
+    "jawa_ngoko": "Imbuh",
+    "jawa_krama": "Imbet, Ngimbet",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PERAMAN": {
+    "indonesia": "peraman",
+    "jawa_ngoko": "Imbon",
+    "jawa_krama": "Imbêtan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TAMBAH": {
+    "indonesia": "Tambah",
+    "jawa_ngoko": "Mundhak",
+    "jawa_krama": "Mindhak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "IMPI": {
+    "indonesia": "Impi",
+    "jawa_ngoko": "Impi",
+    "jawa_krama": "Supêna",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "INAP": {
+    "indonesia": "Inap",
+    "jawa_ngoko": "Inêp",
+    "jawa_krama": "Sipêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PERGI TANPA PAMIT": {
+    "indonesia": "Pergi tanpa pamit",
+    "jawa_ngoko": "Inggat",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Lolos",
+    "priority": "nan"
+  },
+  "PIARA, PELIHARA": {
+    "indonesia": "Piara, Pelihara",
+    "jawa_ngoko": "Ingu",
+    "jawa_krama": "Ingah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "INTAN": {
+    "indonesia": "Intan",
+    "jawa_ngoko": "Intên",
+    "jawa_krama": "Sela",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HITAM": {
+    "indonesia": "Hitam",
+    "jawa_ngoko": "Irêng",
+    "jawa_krama": "Cêmêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DIIRINGKAN": {
+    "indonesia": "Diiringkan",
+    "jawa_ngoko": "Iring",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dherekaken",
+    "priority": "nan"
+  },
+  "HIDUNG": {
+    "indonesia": "Hidung",
+    "jawa_ngoko": "Irung",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Grana",
+    "priority": "nan"
+  },
+  "BISA": {
+    "indonesia": "Bisa",
+    "jawa_ngoko": "Isa",
+    "jawa_krama": "Saged",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MALU": {
+    "indonesia": "Malu",
+    "jawa_ngoko": "Wirang",
+    "jawa_krama": "Isin",
+    "jawa_krama_inggil": "Lingsem",
+    "priority": "P1"
+  },
+  "MASIH": {
+    "indonesia": "Masih",
+    "jawa_ngoko": "Isih",
+    "jawa_krama": "Taksih",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BAWAH": {
+    "indonesia": "Bawah",
+    "jawa_ngoko": "Isor",
+    "jawa_krama": "Andhap",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "IKAN": {
+    "indonesia": "Ikan",
+    "jawa_ngoko": "Iwak",
+    "jawa_krama": "Ulam",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "LUAR": {
+    "indonesia": "Luar",
+    "jawa_ngoko": "Jaba",
+    "jawa_krama": "Jawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "JAGA": {
+    "indonesia": "Jaga",
+    "jawa_ngoko": "Jaga",
+    "jawa_krama": "Jagi",
+    "jawa_krama_inggil": "Reksa",
+    "priority": "P1"
+  },
+  "JAGO, CALON": {
+    "indonesia": "Jago, Calon",
+    "jawa_ngoko": "Jago",
+    "jawa_krama": "Sawung",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JALA, JARING": {
+    "indonesia": "Jala, Jaring",
+    "jawa_ngoko": "Jala",
+    "jawa_krama": "Jambêt",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TAJI": {
+    "indonesia": "Taji",
+    "jawa_ngoko": "Jalu",
+    "jawa_krama": "Jalu, Panja",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MINTA": {
+    "indonesia": "Minta",
+    "jawa_ngoko": "Njaluk",
+    "jawa_krama": "Nyuwun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JAM": {
+    "indonesia": "Jam",
+    "jawa_ngoko": "Jam",
+    "jawa_krama": "Jam, Pukul",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PINANG": {
+    "indonesia": "Pinang",
+    "jawa_ngoko": "Jambe",
+    "jawa_krama": "Wohan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JAMBU": {
+    "indonesia": "Jambu",
+    "jawa_ngoko": "Jambu",
+    "jawa_krama": "Jambêt",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JAMU": {
+    "indonesia": "Jamu",
+    "jawa_ngoko": "Jamu",
+    "jawa_krama": "Jampi",
+    "jawa_krama_inggil": "Loloh, Usada",
+    "priority": "P1"
+  },
+  "DAGU": {
+    "indonesia": "Dagu",
+    "jawa_ngoko": "Janggut",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kêthêkan",
+    "priority": "P1"
+  },
+  "KUDA": {
+    "indonesia": "Kuda",
+    "jawa_ngoko": "Jaran",
+    "jawa_krama": "Kapal",
+    "jawa_krama_inggil": "Titihan, Turangga",
+    "priority": "P1"
+  },
+  "KATANYA": {
+    "indonesia": "Katanya",
+    "jawa_ngoko": "Jare",
+    "jawa_krama": "Cariyosipun",
+    "jawa_krama_inggil": "Ngêndikanipun",
+    "priority": "nan"
+  },
+  "KAIN BATIK": {
+    "indonesia": "Kain batik",
+    "jawa_ngoko": "Jarit",
+    "jawa_krama": "Sinjang",
+    "jawa_krama_inggil": "Nyamping",
+    "priority": "nan"
+  },
+  "ARTINYA": {
+    "indonesia": "Artinya",
+    "jawa_ngoko": "Jarwa",
+    "jawa_krama": "Jarwi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JATI, NYATA, BETUL": {
+    "indonesia": "Jati, Nyata, Betul",
+    "jawa_ngoko": "Jati",
+    "jawa_krama": "Jatos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUKU JAWA": {
+    "indonesia": "Suku Jawa",
+    "jawa_ngoko": "Jawa",
+    "jawa_krama": "Jawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LUAS": {
+    "indonesia": "Luas",
+    "jawa_ngoko": "Ombo",
+    "jawa_krama": "Wiyar",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "ORANG YANG SUDAH MATI": {
+    "indonesia": "Orang yang sudah mati",
+    "jawa_ngoko": "Jênat",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Suwargi",
+    "priority": "nan"
+  },
+  "JANGGUT": {
+    "indonesia": "Janggut",
+    "jawa_ngoko": "Jênggot",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Gumbala",
+    "priority": "nan"
+  },
+  "DALAM": {
+    "indonesia": "Dalam",
+    "jawa_ngoko": "Lêbu",
+    "jawa_krama": "Lêbêt",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JERUK": {
+    "indonesia": "Jeruk",
+    "jawa_ngoko": "Jêruk",
+    "jawa_krama": "Jêram",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MAYAT": {
+    "indonesia": "Mayat",
+    "jawa_ngoko": "Jisim",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Layon",
+    "priority": "nan"
+  },
+  "TARI": {
+    "indonesia": "Tari",
+    "jawa_ngoko": "Joged",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Beksa",
+    "priority": "P1"
+  },
+  "SISIR": {
+    "indonesia": "Sisir",
+    "jawa_ngoko": "Jungkat",
+    "jawa_krama": "Serat",
+    "jawa_krama_inggil": "Pethat",
+    "priority": "nan"
+  },
+  "KEBAIKAN": {
+    "indonesia": "Kebaikan",
+    "jawa_ngoko": "Kabêcikan",
+    "jawa_krama": "Kêsaenan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEMUA": {
+    "indonesia": "Semua",
+    "jawa_ngoko": "Kabeh",
+    "jawa_krama": "Sedaya",
+    "jawa_krama_inggil": "Sedanten",
+    "priority": "nan"
+  },
+  "KACAMATA": {
+    "indonesia": "Kacamata",
+    "jawa_ngoko": "Kacamata",
+    "jawa_krama": "Kacamripat",
+    "jawa_krama_inggil": "Kacatingal",
+    "priority": "nan"
+  },
+  "BEDA, SELISIH": {
+    "indonesia": "Beda, Selisih",
+    "jawa_ngoko": "Kacek",
+    "jawa_krama": "Kaot",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SAPU TANGAN": {
+    "indonesia": "Sapu tangan",
+    "jawa_ngoko": "Kacu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Usap asta",
+    "priority": "nan"
+  },
+  "KEDINGINAN": {
+    "indonesia": "Kedinginan",
+    "jawa_ngoko": "Kadhêmên",
+    "jawa_krama": "Kasrêpên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERLALU JAUH": {
+    "indonesia": "Terlalu jauh",
+    "jawa_ngoko": "Kadohan",
+    "jawa_krama": "Kêtêbihên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERKEJUT": {
+    "indonesia": "Terkejut",
+    "jawa_ngoko": "Kaget",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kejot",
+    "priority": "nan"
+  },
+  "MUDAH TERKEJUT": {
+    "indonesia": "Mudah terkejut",
+    "jawa_ngoko": "Kagetan",
+    "jawa_krama": "Kêjotan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KECUALI": {
+    "indonesia": "Kecuali",
+    "jawa_ngoko": "Kêjaba",
+    "jawa_krama": "Kêjawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "WILAYAHNYA ORANG JAWA": {
+    "indonesia": "Wilayahnya orang jawa",
+    "jawa_ngoko": "Kajawan",
+    "jawa_krama": "Kajawen",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGAJI": {
+    "indonesia": "Mengaji",
+    "jawa_ngoko": "Ngaji",
+    "jawa_krama": "Ngaos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KAKAK LAKI-LAKI": {
+    "indonesia": "Kakak laki-laki",
+    "jawa_ngoko": "Kakang",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kangmas, Raka",
+    "priority": "nan"
+  },
+  "KEBANYAKAN": {
+    "indonesia": "Kebanyakan",
+    "jawa_ngoko": "Kakehan",
+    "jawa_krama": "Kêkathahên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KAKU": {
+    "indonesia": "Kaku",
+    "jawa_ngoko": "Kaku",
+    "jawa_krama": "Kaken",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KALAH": {
+    "indonesia": "Kalah",
+    "jawa_ngoko": "Kasoran",
+    "jawa_krama": "Kawonan",
+    "jawa_krama_inggil": "Kandhapan",
+    "priority": "nan"
+  },
+  "SUNGAI": {
+    "indonesia": "Sungai",
+    "jawa_ngoko": "Kali",
+    "jawa_krama": "Lepen",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEBIASAAN": {
+    "indonesia": "Kebiasaan",
+    "jawa_ngoko": "Kalumrahan",
+    "jawa_krama": "Kalimrahan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KALUNG": {
+    "indonesia": "Kalung",
+    "jawa_ngoko": "Kalung",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Sangsangan",
+    "priority": "nan"
+  },
+  "PANGKAT, KEDUDUKAN": {
+    "indonesia": "Pangkat, Kedudukan",
+    "jawa_ngoko": "Kalungguhan",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kalênggahan",
+    "priority": "nan"
+  },
+  "KESALAHAN": {
+    "indonesia": "Kesalahan",
+    "jawa_ngoko": "Kaluputan",
+    "jawa_krama": "Kalêpatan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KELAPA": {
+    "indonesia": "Kelapa",
+    "jawa_ngoko": "Kambil",
+    "jawa_krama": "Klapa",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERCIUM BAUNYA": {
+    "indonesia": "Tercium baunya",
+    "jawa_ngoko": "Kambu",
+    "jawa_krama": "Kambet",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PIMPINAN DESA": {
+    "indonesia": "Pimpinan desa",
+    "jawa_ngoko": "Kamitua",
+    "jawa_krama": "Kamisepuh",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MUAT": {
+    "indonesia": "Muat",
+    "jawa_ngoko": "Mot",
+    "jawa_krama": "Wrat",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SANA": {
+    "indonesia": "Sana",
+    "jawa_ngoko": "Kana",
+    "jawa_krama": "Ngrika",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "TEMAN": {
+    "indonesia": "Teman",
+    "jawa_ngoko": "Kanca",
+    "jawa_krama": "Rencang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERKATA": {
+    "indonesia": "Berkata",
+    "jawa_ngoko": "Tutur",
+    "jawa_krama": "Sanjang, Criyos",
+    "jawa_krama_inggil": "Paring priksa",
+    "priority": "nan"
+  },
+  "RINDU": {
+    "indonesia": "Rindu",
+    "jawa_ngoko": "Kangên",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kapang, Oneng",
+    "priority": "P1"
+  },
+  "DIKETAHUI": {
+    "indonesia": "Diketahui",
+    "jawa_ngoko": "Kangêrten",
+    "jawa_krama": "Kangêrtosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BUAT": {
+    "indonesia": "Buat",
+    "jawa_ngoko": "Kanggo",
+    "jawa_krama": "Kangge",
+    "jawa_krama_inggil": "Kagem",
+    "priority": "P1"
+  },
+  "HINGGA, SAMPAI": {
+    "indonesia": "Hingga, Sampai",
+    "jawa_ngoko": "Kanti",
+    "jawa_krama": "Kantos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PENYABAR": {
+    "indonesia": "Penyabar",
+    "jawa_ngoko": "Kantên",
+    "jawa_krama": "Kantosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KAPAN": {
+    "indonesia": "Kapan",
+    "jawa_ngoko": "Kapan",
+    "jawa_krama": "Mbenjing menapa",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TIDAK TERAWAT": {
+    "indonesia": "Tidak terawat",
+    "jawa_ngoko": "Kapiran",
+    "jawa_krama": "Kapinten",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERLALU JARANG": {
+    "indonesia": "Terlalu jarang",
+    "jawa_ngoko": "Karangên",
+    "jawa_krama": "Kawisên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BIAR SAJA, SUPAYA": {
+    "indonesia": "Biar saja, Supaya",
+    "jawa_ngoko": "Karêben",
+    "jawa_krama": "Kajengipun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "NIAT, MAKSUD": {
+    "indonesia": "Niat, Maksud",
+    "jawa_ngoko": "Karêp",
+    "jawa_krama": "Kajêng",
+    "jawa_krama_inggil": "Kersa",
+    "priority": "nan"
+  },
+  "MAKSUDNYA": {
+    "indonesia": "Maksudnya",
+    "jawa_ngoko": "Karêpe",
+    "jawa_krama": "Kajêngipun",
+    "jawa_krama_inggil": "Kêrsanipun",
+    "priority": "nan"
+  },
+  "TERTINGGAL": {
+    "indonesia": "Tertinggal",
+    "jawa_ngoko": "Keri",
+    "jawa_krama": "Kantun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEDUA": {
+    "indonesia": "Kedua",
+    "jawa_ngoko": "Karo",
+    "jawa_krama": "Kalih",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DENGAN": {
+    "indonesia": "Dengan",
+    "jawa_ngoko": "Karo",
+    "jawa_krama": "Kaliyan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KARTU": {
+    "indonesia": "Kartu",
+    "jawa_ngoko": "Kartu",
+    "jawa_krama": "Kêrtos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TENTU, JELAS": {
+    "indonesia": "Tentu, Jelas",
+    "jawa_ngoko": "Karuhan",
+    "jawa_krama": "Kantênan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "CELANA": {
+    "indonesia": "Celana",
+    "jawa_ngoko": "Kathok",
+    "jawa_krama": "Sruwal",
+    "jawa_krama_inggil": "Lancingan",
+    "priority": "nan"
+  },
+  "BERCELANA": {
+    "indonesia": "Bercelana",
+    "jawa_ngoko": "Kathokan",
+    "jawa_krama": "Sruwalan",
+    "jawa_krama_inggil": "Lancingan",
+    "priority": "nan"
+  },
+  "DAPAT DILIHAT": {
+    "indonesia": "Dapat dilihat",
+    "jawa_ngoko": "Katon",
+    "jawa_krama": "Katingal",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEPERTI": {
+    "indonesia": "Seperti",
+    "jawa_ngoko": "Kaya",
+    "jawa_krama": "Kados",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BATANG POHON": {
+    "indonesia": "Batang pohon",
+    "jawa_ngoko": "Kayu",
+    "jawa_krama": "Kajêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KESIANGAN": {
+    "indonesia": "Kesiangan",
+    "jawa_ngoko": "Kawanên",
+    "jawa_krama": "Kêsiangan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KÊMALAMAN": {
+    "indonesia": "Kêmalaman",
+    "jawa_ngoko": "Kawêngên",
+    "jawa_krama": "Kêdalon",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PERHATIAN": {
+    "indonesia": "Perhatian",
+    "jawa_ngoko": "Kawigaten",
+    "jawa_krama": "Kawigatosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PENGETAHUAN": {
+    "indonesia": "Pengetahuan",
+    "jawa_ngoko": "Kawruh",
+    "jawa_krama": "Sêsêrêpan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEHILANGAN": {
+    "indonesia": "Kehilangan",
+    "jawa_ngoko": "Kelangan",
+    "jawa_krama": "Kecalan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERINGAT": {
+    "indonesia": "Teringat",
+    "jawa_ngoko": "Kelingan",
+    "jawa_krama": "Kemutan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BETIS": {
+    "indonesia": "Betis",
+    "jawa_ngoko": "Kempol",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Wengkelan",
+    "priority": "nan"
+  },
+  "SINI": {
+    "indonesia": "Sini",
+    "jawa_ngoko": "Kene",
+    "jawa_krama": "Riki",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SISA": {
+    "indonesia": "Sisa",
+    "jawa_ngoko": "Keren",
+    "jawa_krama": "Kantunan",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SEPANJANG PAGI": {
+    "indonesia": "Sepanjang pagi",
+    "jawa_ngoko": "Kesuk",
+    "jawa_krama": "Sakenjing",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KELIHATAN": {
+    "indonesia": "Kelihatan",
+    "jawa_ngoko": "Ketok",
+    "jawa_krama": "asring",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SANGAT SEGAN": {
+    "indonesia": "Sangat segan",
+    "jawa_ngoko": "Kewuhan",
+    "jawa_krama": "Kewêdan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEBATINAN": {
+    "indonesia": "Kebatinan",
+    "jawa_ngoko": "kê",
+    "jawa_krama": "Kaping",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERLANJUR": {
+    "indonesia": "Terlanjur",
+    "jawa_ngoko": "Kêbacut",
+    "jawa_krama": "Kelajeng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KETERLALUAN": {
+    "indonesia": "Keterlaluan",
+    "jawa_ngoko": "Kêbangêtên",
+    "jawa_krama": "Kêsangêtên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERAIRI (SAWAH)": {
+    "indonesia": "Terairi (sawah)",
+    "jawa_ngoko": "Kêbanyon",
+    "jawa_krama": "Kêtoyan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEBATI": {
+    "indonesia": "Kebati",
+    "jawa_ngoko": "Kêbatinan",
+    "jawa_krama": "Kêbatosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEBETULAN": {
+    "indonesia": "Kebetulan",
+    "jawa_ngoko": "Kêbênêr",
+    "jawa_krama": "Kêlêrês",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HEWAN YANG DIKEBIRI": {
+    "indonesia": "Hewan yang dikebiri",
+    "jawa_ngoko": "Kêbiren",
+    "jawa_krama": "Kêbincihan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DIMANDULKAN": {
+    "indonesia": "Dimandulkan",
+    "jawa_ngoko": "Kêbiri",
+    "jawa_krama": "Dipunkêbiri",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KERBAU": {
+    "indonesia": "Kerbau",
+    "jawa_ngoko": "Kêbo",
+    "jawa_krama": "Maesa",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEKANAK-KANAKAN": {
+    "indonesia": "Kekanak-kanakan",
+    "jawa_ngoko": "Kêbocahên",
+    "jawa_krama": "Kêlaren",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEBUTUHAN": {
+    "indonesia": "Kebutuhan",
+    "jawa_ngoko": "Kêbutuhan",
+    "jawa_krama": "Kabêtahan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERLALU KECIL": {
+    "indonesia": "Terlalu kecil",
+    "jawa_ngoko": "Kêcilikên",
+    "jawa_krama": "Kalitên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEJADIAN": {
+    "indonesia": "Kejadian",
+    "jawa_ngoko": "Kêdadeyan",
+    "jawa_krama": "Kêdadosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEJAP": {
+    "indonesia": "Kejap",
+    "jawa_ngoko": "Kêdhep",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kejep",
+    "priority": "nan"
+  },
+  "KEHENDAK": {
+    "indonesia": "Kehendak",
+    "jawa_ngoko": "Kêkarêpane",
+    "jawa_krama": "Kêkajênganipun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BUNGA-BUNGAAN": {
+    "indonesia": "Bunga-bungaan",
+    "jawa_ngoko": "Kêkêmbangan",
+    "jawa_krama": "Sêsêkaran",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERKUMUR": {
+    "indonesia": "Berkumur",
+    "jawa_ngoko": "Kêkêmon",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kêkêmbêngan",
+    "priority": "nan"
+  },
+  "KELAHIRAN": {
+    "indonesia": "Kelahiran",
+    "jawa_ngoko": "Kêlairan",
+    "jawa_krama": "Wêdalan",
+    "jawa_krama_inggil": "Wiyosan",
+    "priority": "nan"
+  },
+  "TERLAKSANA": {
+    "indonesia": "Terlaksana",
+    "jawa_ngoko": "Kêlakon",
+    "jawa_krama": "Kêlampahan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERLUPA": {
+    "indonesia": "Terlupa",
+    "jawa_ngoko": "Kêlalen",
+    "jawa_krama": "Kêsupen",
+    "jawa_krama_inggil": "Kalimêngan",
+    "priority": "nan"
+  },
+  "KUAT": {
+    "indonesia": "Kuat",
+    "jawa_ngoko": "Kuwat/Kêlar",
+    "jawa_krama": "Kiyat/Kuwawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KESAKITAN": {
+    "indonesia": "Kesakitan",
+    "jawa_ngoko": "Kêlaran",
+    "jawa_krama": "Kêsakitan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEGUGURAN": {
+    "indonesia": "Keguguran",
+    "jawa_ngoko": "Kêluron",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Têrag",
+    "priority": "nan"
+  },
+  "KECURIAN": {
+    "indonesia": "Kecurian",
+    "jawa_ngoko": "Kêmalingan",
+    "jawa_krama": "Kêpandungan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BUNGA": {
+    "indonesia": "Bunga",
+    "jawa_ngoko": "Kêmbang",
+    "jawa_krama": "Sêkar",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEMENYAN": {
+    "indonesia": "Kemenyan",
+    "jawa_ngoko": "Kêmênyan",
+    "jawa_krama": "Sela",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KUMUR": {
+    "indonesia": "Kumur",
+    "jawa_ngoko": "Kêmu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kembeng",
+    "priority": "nan"
+  },
+  "SELIMUT": {
+    "indonesia": "Selimut",
+    "jawa_ngoko": "Kêmul",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Singêb",
+    "priority": "nan"
+  },
+  "BOLEH": {
+    "indonesia": "Boleh",
+    "jawa_ngoko": "Kêna",
+    "jawa_krama": "Kenging",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BERANI": {
+    "indonesia": "Berani",
+    "jawa_ngoko": "Wani",
+    "jawa_krama": "Wantun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SANGAT PENDEK": {
+    "indonesia": "Sangat pendek",
+    "jawa_ngoko": "Kêndhekên",
+    "jawa_krama": "Kandhapan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEHABISAN": {
+    "indonesia": "Kehabisan",
+    "jawa_ngoko": "Kêntekan",
+    "jawa_krama": "Kêtêlasan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEMATIAN": {
+    "indonesia": "Kematian",
+    "jawa_ngoko": "Pati",
+    "jawa_krama": "Pêjah",
+    "jawa_krama_inggil": "Seda, Surud",
+    "priority": "nan"
+  },
+  "BAGAIMANA": {
+    "indonesia": "Bagaimana",
+    "jawa_ngoko": "Kêpriye",
+    "jawa_krama": "Kados pundi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DIKELILINGI": {
+    "indonesia": "Dikelilingi",
+    "jawa_ngoko": "Kêpung",
+    "jawa_krama": "Kêpang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SERING": {
+    "indonesia": "Sering",
+    "jawa_ngoko": "Sok",
+    "jawa_krama": "Asring",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KERIS": {
+    "indonesia": "Keris",
+    "jawa_ngoko": "Kêris",
+    "jawa_krama": "Dhuwung",
+    "jawa_krama_inggil": "Wangkkingan",
+    "priority": "nan"
+  },
+  "LELAH": {
+    "indonesia": "lelah",
+    "jawa_ngoko": "Kêsêl",
+    "jawa_krama": "Sayah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERGESA-GESA": {
+    "indonesia": "Tergesa-gesa",
+    "jawa_ngoko": "Kêsusu",
+    "jawa_krama": "Kêsêsa",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERLALU LAMA": {
+    "indonesia": "Terlalu lama",
+    "jawa_ngoko": "Kêsuwen",
+    "jawa_krama": "Kvdangon",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KENTARA": {
+    "indonesia": "Kentara",
+    "jawa_ngoko": "Kêtara",
+    "jawa_krama": "Kêtawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DIDATANGI": {
+    "indonesia": "Didatangi",
+    "jawa_ngoko": "Kêtêkan",
+    "jawa_krama": "Kêdhatêngan",
+    "jawa_krama_inggil": "Krawuhan",
+    "priority": "nan"
+  },
+  "BERTEMU": {
+    "indonesia": "Bertemu",
+    "jawa_ngoko": "Kêtêmu",
+    "jawa_krama": "Kêpanggih",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KERA": {
+    "indonesia": "Kera",
+    "jawa_ngoko": "Kêthek",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Rewanda",
+    "priority": "P1"
+  },
+  "KEMALAMAN": {
+    "indonesia": "Kemalaman",
+    "jawa_ngoko": "Kêwêngen",
+    "jawa_krama": "Kêdalon",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "NISAN": {
+    "indonesia": "Nisan",
+    "jawa_ngoko": "Kijing",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Sêkaran",
+    "priority": "nan"
+  },
+  "ISTIMEWA": {
+    "indonesia": "Istimewa",
+    "jawa_ngoko": "Kinacek",
+    "jawa_krama": "Kinaot",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KINGANG": {
+    "indonesia": "Kingang",
+    "jawa_ngoko": "Kinang",
+    "jawa_krama": "Ganten",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KIRA": {
+    "indonesia": "Kira",
+    "jawa_ngoko": "Kira",
+    "jawa_krama": "Kintên",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KIRIM": {
+    "indonesia": "Kirim",
+    "jawa_ngoko": "Kirim",
+    "jawa_krama": "Kintun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BAJU": {
+    "indonesia": "Baju",
+    "jawa_ngoko": "Klambi",
+    "jawa_krama": "Rasukan",
+    "jawa_krama_inggil": "Agêman rasukan",
+    "priority": "P1"
+  },
+  "TIKAR": {
+    "indonesia": "Tikar",
+    "jawa_ngoko": "Klasa",
+    "jawa_krama": "Gêlaran",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KELIRU": {
+    "indonesia": "Keliru",
+    "jawa_ngoko": "Kleru",
+    "jawa_krama": "Klintu",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERMASUK": {
+    "indonesia": "Termasuk",
+    "jawa_ngoko": "Klêbu",
+    "jawa_krama": "Klêbêt",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEMASUKAN": {
+    "indonesia": "Kemasukan",
+    "jawa_ngoko": "Klbon",
+    "jawa_krama": "Klêbêtan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PINGSAN": {
+    "indonesia": "Pingsan",
+    "jawa_ngoko": "Klêngêr",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kantu",
+    "priority": "nan"
+  },
+  "KUMPUL": {
+    "indonesia": "Kumpul",
+    "jawa_ngoko": "Mor",
+    "jawa_krama": "Kêmpal",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEBAKAR": {
+    "indonesia": "Kebakar",
+    "jawa_ngoko": "Kobong",
+    "jawa_krama": "Kabêsmi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KAU": {
+    "indonesia": "Kau",
+    "jawa_ngoko": "Kok",
+    "jawa_krama": "Sampeyan",
+    "jawa_krama_inggil": "Panjênêngan",
+    "priority": "P1"
+  },
+  "KEJAWAHAN": {
+    "indonesia": "Kejawahan",
+    "jawa_ngoko": "Kodanan",
+    "jawa_krama": "Kêjawahan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENYURUH": {
+    "indonesia": "Menyuruh",
+    "jawa_ngoko": "Kongkon",
+    "jawa_krama": "Kengken",
+    "jawa_krama_inggil": "Ngutus",
+    "priority": "nan"
+  },
+  "SITU": {
+    "indonesia": "Situ",
+    "jawa_ngoko": "Kono",
+    "jawa_krama": "Riku",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KAMU": {
+    "indonesia": "Kamu",
+    "jawa_ngoko": "Kowe",
+    "jawa_krama": "Sampeyan",
+    "jawa_krama_inggil": "Panjenengan",
+    "priority": "P1"
+  },
+  "TERASA": {
+    "indonesia": "Terasa",
+    "jawa_ngoko": "Krasa",
+    "jawa_krama": "Kraos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BETAH": {
+    "indonesia": "Betah",
+    "jawa_ngoko": "Krasan",
+    "jawa_krama": "Kraosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MANDI JAMAS": {
+    "indonesia": "Mandi jamas",
+    "jawa_ngoko": "Kringêt",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Riwe",
+    "priority": "nan"
+  },
+  "KUBUR": {
+    "indonesia": "Kubur",
+    "jawa_ngoko": "Kubur",
+    "jawa_krama": "Petak",
+    "jawa_krama_inggil": "Sarean",
+    "priority": "P1"
+  },
+  "MAKAN": {
+    "indonesia": "Makan",
+    "jawa_ngoko": "Mangan",
+    "jawa_krama": "Nedha",
+    "jawa_krama_inggil": "Dhahar",
+    "priority": "nan"
+  },
+  "HARUS": {
+    "indonesia": "Harus",
+    "jawa_ngoko": "Kudu",
+    "jawa_krama": "Kêdah",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KUKU": {
+    "indonesia": "Kuku",
+    "jawa_ngoko": "Kuku",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Kênaka",
+    "priority": "P1"
+  },
+  "KOKOH": {
+    "indonesia": "Kokoh",
+    "jawa_ngoko": "Kukuh",
+    "jawa_krama": "Kêkah",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MEMBELI UNTUK DIJUAL": {
+    "indonesia": "Membeli untuk dijual",
+    "jawa_ngoko": "Kulak",
+    "jawa_krama": "Kilak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BARAT": {
+    "indonesia": "Barat",
+    "jawa_ngoko": "Kulon",
+    "jawa_krama": "Kilen",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MAHKOTA": {
+    "indonesia": "Mahkota",
+    "jawa_ngoko": "Kuluk",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Makutha",
+    "priority": "nan"
+  },
+  "KAMBUH": {
+    "indonesia": "Kambuh",
+    "jawa_ngoko": "Kumat",
+    "jawa_krama": "Kimat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "CUCI": {
+    "indonesia": "Cuci",
+    "jawa_ngoko": "Kumbah",
+    "jawa_krama": "Girah",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KUNA": {
+    "indonesia": "Kuna",
+    "jawa_ngoko": "Kuna",
+    "jawa_krama": "Kina",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KUNING": {
+    "indonesia": "Kuning",
+    "jawa_ngoko": "Kuning",
+    "jawa_krama": "Jêne",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TELINGA": {
+    "indonesia": "Telinga",
+    "jawa_ngoko": "Kuping",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Talingan",
+    "priority": "nan"
+  },
+  "KURANG": {
+    "indonesia": "Kurang",
+    "jawa_ngoko": "Kurang",
+    "jawa_krama": "Kirang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KURUNG": {
+    "indonesia": "Kurung",
+    "jawa_ngoko": "Kurung",
+    "jawa_krama": "Sêngkêr",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KOTA": {
+    "indonesia": "Kota",
+    "jawa_ngoko": "Kutha",
+    "jawa_krama": "Kitha",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KUASA": {
+    "indonesia": "Kuasa",
+    "jawa_ngoko": "Kuwasa",
+    "jawa_krama": "Kuwaos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KHAWATIR": {
+    "indonesia": "Khawatir",
+    "jawa_ngoko": "Kuwatir",
+    "jawa_krama": "Kuwatos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERLALU BERANI": {
+    "indonesia": "Terlalu berani",
+    "jawa_ngoko": "Kumawani",
+    "jawa_krama": "Kumawantun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERJASA UNTUK": {
+    "indonesia": "Berjasa untuk",
+    "jawa_ngoko": "Labuh",
+    "jawa_krama": "Labêt",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LAYAN": {
+    "indonesia": "Layan",
+    "jawa_ngoko": "Ladi",
+    "jawa_krama": "Lados",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LAHIR": {
+    "indonesia": "Lahir",
+    "jawa_ngoko": "Lair",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Miyos",
+    "priority": "nan"
+  },
+  "SUAMI": {
+    "indonesia": "Suami",
+    "jawa_ngoko": "Laki",
+    "jawa_krama": "Semah",
+    "jawa_krama_inggil": "Garwa, Sarêsmi",
+    "priority": "nan"
+  },
+  "LUPA": {
+    "indonesia": "Lupa",
+    "jawa_ngoko": "Lali",
+    "jawa_krama": "Supe",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "LAMA": {
+    "indonesia": "Lama",
+    "jawa_ngoko": "Suwe",
+    "jawa_krama": "Dangu",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BIBIR": {
+    "indonesia": "Bibir",
+    "jawa_ngoko": "Lambe",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Lathi",
+    "priority": "nan"
+  },
+  "DAN": {
+    "indonesia": "Dan",
+    "jawa_ngoko": "Lan",
+    "jawa_krama": "Kaliyan",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "LAKI-LAKI": {
+    "indonesia": "Laki-laki",
+    "jawa_ngoko": "Lanang",
+    "jawa_krama": "Jalêr",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BELANDA": {
+    "indonesia": "Belanda",
+    "jawa_ngoko": "Walanda",
+    "jawa_krama": "Walandi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TANGKAI TOMBAK": {
+    "indonesia": "Tangkai tombak",
+    "jawa_ngoko": "Landheyan",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Jêjêran",
+    "priority": "nan"
+  },
+  "SAKIT": {
+    "indonesia": "Sakit",
+    "jawa_ngoko": "Lara",
+    "jawa_krama": "Sakit",
+    "jawa_krama_inggil": "Gerah",
+    "priority": "nan"
+  },
+  "MAHAL": {
+    "indonesia": "Mahal",
+    "jawa_ngoko": "Larang",
+    "jawa_krama": "Awis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PINTU": {
+    "indonesia": "Pintu",
+    "jawa_ngoko": "Lawang",
+    "jawa_krama": "Kontên, Kori",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DUA PULUH LIMA": {
+    "indonesia": "Dua puluh lima",
+    "jawa_ngoko": "Sêlawe",
+    "jawa_krama": "Sêlangkung",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERJAGA": {
+    "indonesia": "Terjaga",
+    "jawa_ngoko": "Mêlek",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Wungu",
+    "priority": "nan"
+  },
+  "ISTIRAHAT": {
+    "indonesia": "Istirahat",
+    "jawa_ngoko": "Leren",
+    "jawa_krama": "Kendêl",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PENYAKIT": {
+    "indonesia": "Penyakit",
+    "jawa_ngoko": "Lêlara",
+    "jawa_krama": "Sêsakit",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TANAH": {
+    "indonesia": "Tanah",
+    "jawa_ngoko": "Lêmah",
+    "jawa_krama": "Siti",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LÊMBUT, HALUS": {
+    "indonesia": "Lêmbut, Halus",
+    "jawa_ngoko": "Lêmu",
+    "jawa_krama": "Lêma",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MINYAK": {
+    "indonesia": "Minyak",
+    "jawa_ngoko": "Lênga",
+    "jawa_krama": "Lisah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LENGAN": {
+    "indonesia": "Lengan",
+    "jawa_ngoko": "Lêngên",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pamênthangan",
+    "priority": "nan"
+  },
+  "LESTARI, ABADI": {
+    "indonesia": "Lestari, Abadi",
+    "jawa_ngoko": "Lêstari",
+    "jawa_krama": "Lêstantun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LIMA": {
+    "indonesia": "Lima",
+    "jawa_ngoko": "Lima",
+    "jawa_krama": "Gangsal",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "DUDUK": {
+    "indonesia": "Duduk",
+    "jawa_ngoko": "Lungguh",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Lênggah",
+    "priority": "nan"
+  },
+  "LEBIH, LUAR BIASA": {
+    "indonesia": "Lebih, Luar biasa",
+    "jawa_ngoko": "Linuwih",
+    "jawa_krama": "Linangkung",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TUKAR, GANTI": {
+    "indonesia": "Tukar, Ganti",
+    "jawa_ngoko": "Liru",
+    "jawa_krama": "Lintu",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LEWAT": {
+    "indonesia": "Lewat",
+    "jawa_ngoko": "Liwat",
+    "jawa_krama": "Langkung",
+    "jawa_krama_inggil": "Miyos",
+    "priority": "nan"
+  },
+  "UTARA": {
+    "indonesia": "Utara",
+    "jawa_ngoko": "Lor",
+    "jawa_krama": "Ler",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DUA": {
+    "indonesia": "Dua",
+    "jawa_ngoko": "Loro",
+    "jawa_krama": "Kalih",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BEKAS": {
+    "indonesia": "Bekas",
+    "jawa_ngoko": "Lorodan",
+    "jawa_krama": "Lorodan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LUCU": {
+    "indonesia": "Lucu",
+    "jawa_ngoko": "Lucu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Cucud",
+    "priority": "P1"
+  },
+  "AIR MATA": {
+    "indonesia": "Air mata",
+    "jawa_ngoko": "Luh",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Waspa",
+    "priority": "nan"
+  },
+  "BAJAK": {
+    "indonesia": "Bajak",
+    "jawa_ngoko": "Luku",
+    "jawa_krama": "Lujêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KULIT": {
+    "indonesia": "Kulit",
+    "jawa_ngoko": "Lulang",
+    "jawa_krama": "Cucal",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BIASA": {
+    "indonesia": "Biasa",
+    "jawa_ngoko": "Lumrah",
+    "jawa_krama": "Limrah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SALAH, KELIRU": {
+    "indonesia": "Salah, Keliru",
+    "jawa_ngoko": "Luput",
+    "jawa_krama": "Lepat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LEBIH": {
+    "indonesia": "Lebih",
+    "jawa_ngoko": "Turah",
+    "jawa_krama": "Tirah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DILISANKAN": {
+    "indonesia": "Dilisankan",
+    "jawa_ngoko": "Maca",
+    "jawa_krama": "Maos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MACAN": {
+    "indonesia": "Macan",
+    "jawa_ngoko": "Macan",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Sima",
+    "priority": "nan"
+  },
+  "BERTENGKAR": {
+    "indonesia": "Bertengkar",
+    "jawa_ngoko": "Padu",
+    "jawa_krama": "Pabên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LILIN": {
+    "indonesia": "Lilin",
+    "jawa_ngoko": "Malam",
+    "jawa_krama": "Lilin",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PENCURI": {
+    "indonesia": "Pencuri",
+    "jawa_ngoko": "Maling",
+    "jawa_krama": "Padung",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGUNYAH": {
+    "indonesia": "Mengunyah",
+    "jawa_ngoko": "Mamah",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Nggilut",
+    "priority": "nan"
+  },
+  "SEKIAN": {
+    "indonesia": "Sekian",
+    "jawa_ngoko": "Mana",
+    "jawa_krama": "Mantên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERHENTI": {
+    "indonesia": "Berhenti",
+    "jawa_ngoko": "Mandhêg",
+    "jawa_krama": "Kendêl",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LAGI": {
+    "indonesia": "Lagi",
+    "jawa_ngoko": "Maneh",
+    "jawa_krama": "Malih",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "DEMIKIAN": {
+    "indonesia": "Demikian",
+    "jawa_ngoko": "Mono",
+    "jawa_krama": "Mantên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BURUNG": {
+    "indonesia": "Burung",
+    "jawa_ngoko": "Manuk",
+    "jawa_krama": "Pêksi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DATANG": {
+    "indonesia": "Datang",
+    "jawa_ngoko": "Têka",
+    "jawa_krama": "Dhatêng",
+    "jawa_krama_inggil": "Rawuh",
+    "priority": "nan"
+  },
+  "SEMBUH": {
+    "indonesia": "Sembuh",
+    "jawa_ngoko": "Waras",
+    "jawa_krama": "Saras",
+    "jawa_krama_inggil": "Waluya",
+    "priority": "nan"
+  },
+  "MATA": {
+    "indonesia": "Mata",
+    "jawa_ngoko": "Mata",
+    "jawa_krama": "Mripat",
+    "jawa_krama_inggil": "Paningal, Soca",
+    "priority": "P1"
+  },
+  "MENINGGAL": {
+    "indonesia": "Meninggal",
+    "jawa_ngoko": "Mati",
+    "jawa_krama": "Pejah",
+    "jawa_krama_inggil": "Seda",
+    "priority": "nan"
+  },
+  "TADI": {
+    "indonesia": "Tadi",
+    "jawa_ngoko": "Mau",
+    "jawa_krama": "Wau",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BARA API": {
+    "indonesia": "Bara api",
+    "jawa_ngoko": "Mawa",
+    "jawa_krama": "Mawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JENAZAH": {
+    "indonesia": "Jenazah",
+    "jawa_ngoko": "Mayit",
+    "jawa_krama": "Jisim",
+    "jawa_krama_inggil": "Layon",
+    "priority": "nan"
+  },
+  "MEMBERI": {
+    "indonesia": "Memberi",
+    "jawa_ngoko": "Menehi",
+    "jawa_krama": "Ngaturi, Nyukani",
+    "jawa_krama_inggil": "Nyaosi, Maringi",
+    "priority": "nan"
+  },
+  "MENANG": {
+    "indonesia": "Menang",
+    "jawa_ngoko": "Mênang",
+    "jawa_krama": "Mimpang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JIKA KALAU": {
+    "indonesia": "Jika kalau",
+    "jawa_ngoko": "Mênawa",
+    "jawa_krama": "Mênawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "NANTI": {
+    "indonesia": "Nanti",
+    "jawa_ngoko": "Mêngko",
+    "jawa_krama": "Mangke",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SEJENIS RUSA": {
+    "indonesia": "Sejenis rusa",
+    "jawa_ngoko": "Mênjangan",
+    "jawa_krama": "Sangsam",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KE": {
+    "indonesia": "Ke",
+    "jawa_ngoko": "Mênyang",
+    "jawa_krama": "Dhatêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MENGETAHUI": {
+    "indonesia": "Mengetahui",
+    "jawa_ngoko": "Mêruhi",
+    "jawa_krama": "Nyêmêrêpi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KELUAR": {
+    "indonesia": "Keluar",
+    "jawa_ngoko": "Mêtu",
+    "jawa_krama": "Mêdal",
+    "jawa_krama_inggil": "Miyos",
+    "priority": "nan"
+  },
+  "HAMIL": {
+    "indonesia": "Hamil",
+    "jawa_ngoko": "Mêtêng",
+    "jawa_krama": "Wawrat, Mbobot",
+    "jawa_krama_inggil": "Nggarbini",
+    "priority": "nan"
+  },
+  "MENGHITUNG": {
+    "indonesia": "Menghitung",
+    "jawa_ngoko": "Milang",
+    "jawa_krama": "Mical",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MELARIKAN DIRI": {
+    "indonesia": "Melarikan diri",
+    "jawa_ngoko": "Minggat",
+    "jawa_krama": "Kesah",
+    "jawa_krama_inggil": "Lolos",
+    "priority": "nan"
+  },
+  "BERJALAN": {
+    "indonesia": "Berjalan",
+    "jawa_ngoko": "Mlaku",
+    "jawa_krama": "Mlampah",
+    "jawa_krama_inggil": "Tindak",
+    "priority": "nan"
+  },
+  "KAFAN": {
+    "indonesia": "Kafan",
+    "jawa_ngoko": "Mori",
+    "jawa_krama": "Montên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MUDAH-MUDAHAN": {
+    "indonesia": "Mudah-mudahan",
+    "jawa_ngoko": "Muga-muga",
+    "jawa_krama": "Mugi-mugi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMANG": {
+    "indonesia": "Memang",
+    "jawa_ngoko": "Mula",
+    "jawa_krama": "Mila",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGAJAR": {
+    "indonesia": "Mengajar",
+    "jawa_ngoko": "Mulang",
+    "jawa_krama": "Mucal",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PULANG": {
+    "indonesia": "Pulang",
+    "jawa_ngoko": "Ulih",
+    "jawa_krama": "Mantuk",
+    "jawa_krama_inggil": "Kondur",
+    "priority": "nan"
+  },
+  "PUSING": {
+    "indonesia": "Pusing",
+    "jawa_ngoko": "Ngêlu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Puyêng",
+    "priority": "nan"
+  },
+  "NAIK": {
+    "indonesia": "Naik",
+    "jawa_ngoko": "Unggah",
+    "jawa_krama": "Inggah",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MENGENAI": {
+    "indonesia": "Mengenai",
+    "jawa_ngoko": "Mungguh",
+    "jawa_krama": "Mênggah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MUSUH, LAWAN": {
+    "indonesia": "Musuh, Lawan",
+    "jawa_ngoko": "Mungsuh",
+    "jawa_krama": "Mêngsah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERSUARA": {
+    "indonesia": "Bersuara",
+    "jawa_ngoko": "Muni",
+    "jawa_krama": "Mungel",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MURAH": {
+    "indonesia": "Murah",
+    "jawa_ngoko": "Murah",
+    "jawa_krama": "Mirah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MARAH": {
+    "indonesia": "Marah",
+    "jawa_ngoko": "Nêsu",
+    "jawa_krama": "Srêngên",
+    "jawa_krama_inggil": "Duka",
+    "priority": "nan"
+  },
+  "MUNTAH": {
+    "indonesia": "Muntah",
+    "jawa_ngoko": "Mutah",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Luntak",
+    "priority": "nan"
+  },
+  "BAHAYA": {
+    "indonesia": "Bahaya",
+    "jawa_ngoko": "Mutawatir",
+    "jawa_krama": "Mutawantos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DAN JUGA": {
+    "indonesia": "Dan juga",
+    "jawa_ngoko": "Muwah",
+    "jawa_krama": "Miwah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "NEGARA": {
+    "indonesia": "Negara",
+    "jawa_ngoko": "Nagara",
+    "jawa_krama": "Nagari",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMBETULKAN": {
+    "indonesia": "Membetulkan",
+    "jawa_ngoko": "Ndandani",
+    "jawa_krama": "Ndandosi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MELETAKKAN": {
+    "indonesia": "Meletakkan",
+    "jawa_ngoko": "Ndokokake",
+    "jawa_krama": "Ndekekakên",
+    "jawa_krama_inggil": "Maringakên",
+    "priority": "nan"
+  },
+  "MEMPERPANJANG": {
+    "indonesia": "Memperpanjang",
+    "jawa_ngoko": "Ndêdawa",
+    "jawa_krama": "Memanjang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MELIHAT": {
+    "indonesia": "Melihat",
+    "jawa_ngoko": "Ndêleng",
+    "jawa_krama": "Ningali",
+    "jawa_krama_inggil": "Mriksani",
+    "priority": "nan"
+  },
+  "MEMILIKI": {
+    "indonesia": "Memiliki",
+    "jawa_ngoko": "Nduweni",
+    "jawa_krama": "Nggadahi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGHADAP": {
+    "indonesia": "Menghadap",
+    "jawa_ngoko": "Seba",
+    "jawa_krama": "Sowan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGHARGAI": {
+    "indonesia": "Menghargai",
+    "jawa_ngoko": "Ngajeni",
+    "jawa_krama": "Ngaosi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMAJUKAN": {
+    "indonesia": "Memajukan",
+    "jawa_ngoko": "Ngajokakên",
+    "jawa_krama": "Ngajêngakên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGAKUI": {
+    "indonesia": "Mengakui",
+    "jawa_ngoko": "Ngakoni",
+    "jawa_krama": "Ngakêni",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGHALANGI": {
+    "indonesia": "Menghalangi",
+    "jawa_ngoko": "Ngalangi",
+    "jawa_krama": "Mambêngi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KE UTARA": {
+    "indonesia": "Ke utara",
+    "jawa_ngoko": "Ngalor",
+    "jawa_krama": "Ngaler",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MELUASKAN": {
+    "indonesia": "Meluaskan",
+    "jawa_ngoko": "Ngambakake",
+    "jawa_krama": "Miyarakên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMBAU": {
+    "indonesia": "Membau",
+    "jawa_ngoko": "Ngambu",
+    "jawa_krama": "Ngambêt",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENCIUM": {
+    "indonesia": "Mencium",
+    "jawa_ngoko": "Ngambung",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Ngaras",
+    "priority": "nan"
+  },
+  "MÊNGADAKAN": {
+    "indonesia": "Mêngadakan",
+    "jawa_ngoko": "Nganakake",
+    "jawa_krama": "Ngawontênakên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SAMPAI": {
+    "indonesia": "Sampai",
+    "jawa_ngoko": "Nganti",
+    "jawa_krama": "Ngantos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENAWAR": {
+    "indonesia": "Menawar",
+    "jawa_ngoko": "Nganyang",
+    "jawa_krama": "Ngawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMAAFKAN": {
+    "indonesia": "Memaafkan",
+    "jawa_ngoko": "Ngapura",
+    "jawa_krama": "Ngapuntên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENYEBUT": {
+    "indonesia": "Menyebut",
+    "jawa_ngoko": "Ngarani",
+    "jawa_krama": "Mastani",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DI DEPAN": {
+    "indonesia": "Di depan",
+    "jawa_ngoko": "Ngarêp",
+    "jawa_krama": "Ngajêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGALAH": {
+    "indonesia": "Mengalah",
+    "jawa_ngoko": "Ngasor",
+    "jawa_krama": "Ngawon",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MELAKUKAN SENDIRI": {
+    "indonesia": "Melakukan sendiri",
+    "jawa_ngoko": "Ngawaki",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Nyêlirani",
+    "priority": "nan"
+  },
+  "MENGINGAT": {
+    "indonesia": "Mengingat",
+    "jawa_ngoko": "Ngelingi",
+    "jawa_krama": "Ngemuti",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGHENTIKAN": {
+    "indonesia": "Menghentikan",
+    "jawa_ngoko": "Ngêndhêgake",
+    "jawa_krama": "Ngêndêlake",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERTELUR": {
+    "indonesia": "Bertelur",
+    "jawa_ngoko": "Ngendhog",
+    "jawa_krama": "Nigan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGABDI": {
+    "indonesia": "Mengabdi",
+    "jawa_ngoko": "Ngenger",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Ngabdi",
+    "priority": "nan"
+  },
+  "NEMPUH": {
+    "indonesia": "Nempuh",
+    "jawa_ngoko": "Nêmpuh",
+    "jawa_krama": "Nêmpah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HAUS": {
+    "indonesia": "Haus",
+    "jawa_ngoko": "Ngêlak",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Salit",
+    "priority": "P1"
+  },
+  "MENGAMBILKAN": {
+    "indonesia": "Mengambilkan",
+    "jawa_ngoko": "Ngêpekake",
+    "jawa_krama": "Mêndhêtake",
+    "jawa_krama_inggil": "Mundhutake",
+    "priority": "nan"
+  },
+  "TAHU": {
+    "indonesia": "Tahu",
+    "jawa_ngoko": "Ngêrti",
+    "jawa_krama": "Ngêrtos",
+    "jawa_krama_inggil": "Priksa",
+    "priority": "P1"
+  },
+  "MEMINJAMI": {
+    "indonesia": "Meminjami",
+    "jawa_ngoko": "Nggadhuhi",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Ngampili",
+    "priority": "nan"
+  },
+  "MENGGANTI": {
+    "indonesia": "Mengganti",
+    "jawa_ngoko": "Ngganti",
+    "jawa_krama": "Nggantos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMBAWA": {
+    "indonesia": "Membawa",
+    "jawa_ngoko": "Nggawa",
+    "jawa_krama": "Bêkta",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MELENGKAPI": {
+    "indonesia": "Melengkapi",
+    "jawa_ngoko": "Nggênêpi",
+    "jawa_krama": "Njangkêpi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENCARI": {
+    "indonesia": "Mencari",
+    "jawa_ngoko": "Nggoleki",
+    "jawa_krama": "Madosi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMBANGUNKAN": {
+    "indonesia": "Membangunkan",
+    "jawa_ngoko": "Nggugah",
+    "jawa_krama": "Nggigah",
+    "jawa_krama_inggil": "Mungu",
+    "priority": "nan"
+  },
+  "MENGGUGAT": {
+    "indonesia": "Menggugat",
+    "jawa_ngoko": "Nggugat",
+    "jawa_krama": "Nggigat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGGUNAKAN": {
+    "indonesia": "Menggunakan",
+    "jawa_ngoko": "Nggunakake",
+    "jawa_krama": "Ngginakakên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENERTAWAKAN": {
+    "indonesia": "Menertawakan",
+    "jawa_ngoko": "Nggêmuyu",
+    "jawa_krama": "Nggêgujêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGINANG": {
+    "indonesia": "Menginang",
+    "jawa_ngoko": "Nginang",
+    "jawa_krama": "Ngganten",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGINAP": {
+    "indonesia": "Menginap",
+    "jawa_ngoko": "Nginêp",
+    "jawa_krama": "Nyipêng",
+    "jawa_krama_inggil": "Nyare",
+    "priority": "nan"
+  },
+  "MEMELIHARA": {
+    "indonesia": "Memelihara",
+    "jawa_ngoko": "Ngingu",
+    "jawa_krama": "Ngingah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MELAHIRKAN": {
+    "indonesia": "Melahirkan",
+    "jawa_ngoko": "Nglairake",
+    "jawa_krama": "Nglairakên",
+    "jawa_krama_inggil": "Mbabarakên",
+    "priority": "nan"
+  },
+  "MENYAKITI": {
+    "indonesia": "Menyakiti",
+    "jawa_ngoko": "Nglarani",
+    "jawa_krama": "Nyakiti",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMBATIN": {
+    "indonesia": "Membatin",
+    "jawa_ngoko": "Ngudarasa",
+    "jawa_krama": "Ngudaraos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DI LUAR": {
+    "indonesia": "Di luar",
+    "jawa_ngoko": "Njaba",
+    "jawa_krama": "Njawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENJAGA": {
+    "indonesia": "Menjaga",
+    "jawa_ngoko": "Njaga",
+    "jawa_krama": "Njagi",
+    "jawa_krama_inggil": "Ngrêksa",
+    "priority": "nan"
+  },
+  "MENCALONKAN": {
+    "indonesia": "Mencalonkan",
+    "jawa_ngoko": "Njagokake",
+    "jawa_krama": "Nyawungakên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LALU, CEPAT": {
+    "indonesia": "Lalu, Cepat",
+    "jawa_ngoko": "Nuli",
+    "jawa_krama": "Nuntên, Lajêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BEKERJA": {
+    "indonesia": "Bekerja",
+    "jawa_ngoko": "Nyambut gawe",
+    "jawa_krama": "Nyambut damêl",
+    "jawa_krama_inggil": "Ngasta damêl",
+    "priority": "nan"
+  },
+  "PINJAM": {
+    "indonesia": "Pinjam",
+    "jawa_ngoko": "Utang",
+    "jawa_krama": "Sambut",
+    "jawa_krama_inggil": "Ngampil",
+    "priority": "nan"
+  },
+  "MEMARAHI": {
+    "indonesia": "Memarahi",
+    "jawa_ngoko": "Nyrêngêni",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Ndukani",
+    "priority": "nan"
+  },
+  "MENCERITAKAN": {
+    "indonesia": "Menceritakan",
+    "jawa_ngoko": "Nyritani",
+    "jawa_krama": "Nyriyosi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENYUNTING": {
+    "indonesia": "Menyunting",
+    "jawa_ngoko": "Nyundhuki",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Nyangsangi",
+    "priority": "nan"
+  },
+  "BERGERAK": {
+    "indonesia": "Bergerak",
+    "jawa_ngoko": "Obah",
+    "jawa_krama": "Ebah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "OBAT": {
+    "indonesia": "Obat",
+    "jawa_ngoko": "Tamba",
+    "jawa_krama": "Jampi",
+    "jawa_krama_inggil": "Usada",
+    "priority": "P1"
+  },
+  "BAKAR": {
+    "indonesia": "Bakar",
+    "jawa_ngoko": "Obong",
+    "jawa_krama": "Bêsmi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MENDAPATKAN": {
+    "indonesia": "Mendapatkan",
+    "jawa_ngoko": "Oleh",
+    "jawa_krama": "Angsal",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "RUMAH": {
+    "indonesia": "Rumah",
+    "jawa_ngoko": "Omah",
+    "jawa_krama": "Griya",
+    "jawa_krama_inggil": "Dalêm",
+    "priority": "nan"
+  },
+  "MINUM": {
+    "indonesia": "Minum",
+    "jawa_ngoko": "Ombe",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Unjuk",
+    "priority": "nan"
+  },
+  "BICARA": {
+    "indonesia": "Bicara",
+    "jawa_ngoko": "Wicara",
+    "jawa_krama": "Wicantên",
+    "jawa_krama_inggil": "Ngêndika",
+    "priority": "nan"
+  },
+  "OMPONG": {
+    "indonesia": "Ompong",
+    "jawa_ngoko": "Ompong",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dhaut",
+    "priority": "nan"
+  },
+  "UPAH": {
+    "indonesia": "Upah",
+    "jawa_ngoko": "Opah",
+    "jawa_krama": "Epah",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "TIDAK": {
+    "indonesia": "Tidak",
+    "jawa_ngoko": "Ora",
+    "jawa_krama": "Botên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERUBAH": {
+    "indonesia": "Berubah",
+    "jawa_ngoko": "Owah",
+    "jawa_krama": "Ewah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SAMA": {
+    "indonesia": "Sama",
+    "jawa_ngoko": "Padha",
+    "jawa_krama": "Sami",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "TERANG": {
+    "indonesia": "Terang",
+    "jawa_ngoko": "Padhang",
+    "jawa_krama": "Pajar",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TIDAK PERCAYA": {
+    "indonesia": "Tidak percaya",
+    "jawa_ngoko": "Paido",
+    "jawa_krama": "Paibên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PAJAK": {
+    "indonesia": "Pajak",
+    "jawa_ngoko": "Pajêng",
+    "jawa_krama": "Paos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HALAMAN": {
+    "indonesia": "Halaman",
+    "jawa_ngoko": "Pakarangan",
+    "jawa_krama": "Pêkawisan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PANAH": {
+    "indonesia": "Panah",
+    "jawa_ngoko": "Panah",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Jêmparing",
+    "priority": "P1"
+  },
+  "PANAS": {
+    "indonesia": "Panas",
+    "jawa_ngoko": "Panas",
+    "jawa_krama": "Bênter",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MAKANAN": {
+    "indonesia": "Makanan",
+    "jawa_ngoko": "Pangan",
+    "jawa_krama": "Têdha",
+    "jawa_krama_inggil": "Dhaharan",
+    "priority": "nan"
+  },
+  "PERKIRAAN": {
+    "indonesia": "Perkiraan",
+    "jawa_ngoko": "Pangudakara",
+    "jawa_krama": "Pangudakawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PERASAAN HATI": {
+    "indonesia": "Perasaan hati",
+    "jawa_ngoko": "Pangudarasa",
+    "jawa_krama": "Pangudaraos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEHIDUPAN": {
+    "indonesia": "Kehidupan",
+    "jawa_ngoko": "Panguripan",
+    "jawa_krama": "Pagesangan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "EMPAT": {
+    "indonesia": "Empat",
+    "jawa_ngoko": "Papat",
+    "jawa_krama": "Sêkawan",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "RANTAU": {
+    "indonesia": "Rantau",
+    "jawa_ngoko": "Paran",
+    "jawa_krama": "Purug",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PADI": {
+    "indonesia": "Padi",
+    "jawa_ngoko": "Pari",
+    "jawa_krama": "Pantun",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PUASA": {
+    "indonesia": "Puasa",
+    "jawa_ngoko": "Pasa",
+    "jawa_krama": "Siyam",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PASAR": {
+    "indonesia": "Pasar",
+    "jawa_ngoko": "Pasar",
+    "jawa_krama": "Pêkên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LAKU": {
+    "indonesia": "Laku",
+    "jawa_ngoko": "Payu",
+    "jawa_krama": "Pajêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PAYUNG": {
+    "indonesia": "Payung",
+    "jawa_ngoko": "Payung",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Songsong",
+    "priority": "nan"
+  },
+  "MENCARI KUTU RAMBUT": {
+    "indonesia": "Mencari kutu rambut",
+    "jawa_ngoko": "Petan",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Ulik",
+    "priority": "nan"
+  },
+  "PENDAPA": {
+    "indonesia": "Pendapa",
+    "jawa_ngoko": "Pêndhapa",
+    "jawa_krama": "Pêndhapi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PEDANG": {
+    "indonesia": "Pedang",
+    "jawa_ngoko": "Pêdhang",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Sabêt",
+    "priority": "nan"
+  },
+  "LAPISAN EMAS PADA KERIS": {
+    "indonesia": "Lapisan emas pada keris",
+    "jawa_ngoko": "Pêndhok",
+    "jawa_krama": "Kandhêlan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TEPAT": {
+    "indonesia": "Tepat",
+    "jawa_ngoko": "Pênêr",
+    "jawa_krama": "Lêrês",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PUTTING SUSU": {
+    "indonesia": "Putting susu",
+    "jawa_ngoko": "Pênthil",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Mundri",
+    "priority": "nan"
+  },
+  "KEPERCAYAAN": {
+    "indonesia": "Kepercayaan",
+    "jawa_ngoko": "Piandel",
+    "jawa_krama": "Kapitadosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PIKIRAN": {
+    "indonesia": "Pikiran",
+    "jawa_ngoko": "Pikir",
+    "jawa_krama": "Manah",
+    "jawa_krama_inggil": "Pênggalih",
+    "priority": "nan"
+  },
+  "DIPIKUL": {
+    "indonesia": "Dipikul",
+    "jawa_ngoko": "Pikul",
+    "jawa_krama": "Dipunrêmbat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DISAKITI": {
+    "indonesia": "Disakiti",
+    "jawa_ngoko": "Pilara",
+    "jawa_krama": "Dipunpisakiti",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PILIS": {
+    "indonesia": "Pilis",
+    "jawa_ngoko": "Pilis",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Larik, Sigit",
+    "priority": "P1"
+  },
+  "DIKALIKAN": {
+    "indonesia": "Dikalikan",
+    "jawa_ngoko": "Ping",
+    "jawa_krama": "Ping, Kaping",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PIPI": {
+    "indonesia": "Pipi",
+    "jawa_ngoko": "Pipi",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pêngarasan",
+    "priority": "P1"
+  },
+  "BERAPA": {
+    "indonesia": "Berapa",
+    "jawa_ngoko": "Pira",
+    "jawa_krama": "Pintên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ALAT": {
+    "indonesia": "Alat",
+    "jawa_ngoko": "Piranti",
+    "jawa_krama": "Pirantos",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PIRING": {
+    "indonesia": "Piring",
+    "jawa_ngoko": "Piring",
+    "jawa_krama": "Lancaran",
+    "jawa_krama_inggil": "Ambêngan",
+    "priority": "nan"
+  },
+  "SEKALI": {
+    "indonesia": "Sekali",
+    "jawa_ngoko": "Pisan",
+    "jawa_krama": "Pindhah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "APA YANG DITANYAKAN": {
+    "indonesia": "Apa yang ditanyakan",
+    "jawa_ngoko": "Pitakon",
+    "jawa_krama": "Pitakên",
+    "jawa_krama_inggil": "Padangon",
+    "priority": "nan"
+  },
+  "AYAM": {
+    "indonesia": "Ayam",
+    "jawa_ngoko": "Pitik",
+    "jawa_krama": "Ayam",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "NASIHAT, PETUNJUK": {
+    "indonesia": "Nasihat, Petunjuk",
+    "jawa_ngoko": "Pituduh",
+    "jawa_krama": "Pitêdah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "CAT EMAS": {
+    "indonesia": "Cat emas",
+    "jawa_ngoko": "Prada",
+    "jawa_krama": "Praos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PERKARA": {
+    "indonesia": "Perkara",
+    "jawa_ngoko": "Prakara",
+    "jawa_krama": "Prêkawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PATUT, LAYAK": {
+    "indonesia": "Patut, Layak",
+    "jawa_ngoko": "Prayoga",
+    "jawa_krama": "Prayogi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PERAHU": {
+    "indonesia": "Perahu",
+    "jawa_ngoko": "Prau",
+    "jawa_krama": "Baita",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PRIHATIN, BERPRIHATIN": {
+    "indonesia": "Prihatin, Berprihatin",
+    "jawa_ngoko": "Prihatin",
+    "jawa_krama": "Prihatos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BAMBU": {
+    "indonesia": "Bambu",
+    "jawa_ngoko": "Pring",
+    "jawa_krama": "Dêling, Bambu",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BANGSAWAN": {
+    "indonesia": "Bangsawan",
+    "jawa_ngoko": "Priyayi",
+    "jawa_krama": "Priyantun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PULUH": {
+    "indonesia": "Puluh",
+    "jawa_ngoko": "Puluh",
+    "jawa_krama": "Dasa",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PUNDAK, BAHU": {
+    "indonesia": "Pundak, Bahu",
+    "jawa_ngoko": "Pundhak",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pamidangan",
+    "priority": "nan"
+  },
+  "BAGIAN / SISI BELAKANG": {
+    "indonesia": "Bagian / sisi belakang",
+    "jawa_ngoko": "Pungkur",
+    "jawa_krama": "Pêngkêr",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "GANTI GIGI, OMPONG": {
+    "indonesia": "Ganti gigi, Ompong",
+    "jawa_ngoko": "Pupak",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dhaut",
+    "priority": "nan"
+  },
+  "PAHA": {
+    "indonesia": "Paha",
+    "jawa_ngoko": "Pupu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Wêntis",
+    "priority": "P1"
+  },
+  "PUTUS TALI PUSAR": {
+    "indonesia": "Putus tali pusar",
+    "jawa_ngoko": "Puput",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dhautan",
+    "priority": "nan"
+  },
+  "PUSAR": {
+    "indonesia": "Pusar",
+    "jawa_ngoko": "Wudêl",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Nabi",
+    "priority": "nan"
+  },
+  "PUTIH": {
+    "indonesia": "Putih",
+    "jawa_ngoko": "Putih",
+    "jawa_krama": "Pêthak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "CUCU": {
+    "indonesia": "Cucu",
+    "jawa_ngoko": "Putu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Wayah",
+    "priority": "P1"
+  },
+  "NIKAH, KAWIN": {
+    "indonesia": "Nikah, Kawin",
+    "jawa_ngoko": "Rabi",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Krama, Pikrama",
+    "priority": "nan"
+  },
+  "AGAK": {
+    "indonesia": "Agak",
+    "jawa_ngoko": "Rada",
+    "jawa_krama": "Radi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SELAMAT": {
+    "indonesia": "Selamat",
+    "jawa_ngoko": "Slamet",
+    "jawa_krama": "Wilujeng",
+    "jawa_krama_inggil": "Sugeng",
+    "priority": "nan"
+  },
+  "MUKA, WAJAH": {
+    "indonesia": "Muka, wajah",
+    "jawa_ngoko": "Rai",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pasuryan",
+    "priority": "nan"
+  },
+  "RAMBUT": {
+    "indonesia": "Rambut",
+    "jawa_ngoko": "Rambut",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Rikma",
+    "priority": "nan"
+  },
+  "KE SANA": {
+    "indonesia": "Ke sana",
+    "jawa_ngoko": "Rana",
+    "jawa_krama": "Mrika, Mriku",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "RASA, PERASAAN": {
+    "indonesia": "Rasa, Perasaan",
+    "jawa_ngoko": "Rasa",
+    "jawa_krama": "Raos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "RATA, MERATA": {
+    "indonesia": "Rata, Merata",
+    "jawa_ngoko": "Rata",
+    "jawa_krama": "Radin",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "CICI MUKA": {
+    "indonesia": "Cici muka",
+    "jawa_ngoko": "Raup",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Suryan",
+    "priority": "nan"
+  },
+  "KE SINI": {
+    "indonesia": "Ke sini",
+    "jawa_ngoko": "Rene",
+    "jawa_krama": "Mriki",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PEMBANTU": {
+    "indonesia": "Pembantu",
+    "jawa_ngoko": "Rewang",
+    "jawa_krama": "Rencang",
+    "jawa_krama_inggil": "Abdi",
+    "priority": "nan"
+  },
+  "REBUT, RAMPAS": {
+    "indonesia": "Rebut, Rampas",
+    "jawa_ngoko": "Rêbut",
+    "jawa_krama": "Rêbat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEDIH, SUSAH": {
+    "indonesia": "Sedih, Susah",
+    "jawa_ngoko": "Rêdatin",
+    "jawa_krama": "Rêdatos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HARGA": {
+    "indonesia": "Harga",
+    "jawa_ngoko": "Rêga",
+    "jawa_krama": "Rêgi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SULIT, PARAH": {
+    "indonesia": "Sulit, Parah",
+    "jawa_ngoko": "Rêkasa",
+    "jawa_krama": "Rêkaos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "RUNDING": {
+    "indonesia": "Runding",
+    "jawa_ngoko": "Rêmbug",
+    "jawa_krama": "Rêmbag",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BULAN": {
+    "indonesia": "Bulan",
+    "jawa_ngoko": "Sasi",
+    "jawa_krama": "Wulan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LENDIR, DAHAK": {
+    "indonesia": "Lendir, Dahak",
+    "jawa_ngoko": "Riyak",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Jagra",
+    "priority": "nan"
+  },
+  "HARI RAYA": {
+    "indonesia": "Hari raya",
+    "jawa_ngoko": "Riyaya",
+    "jawa_krama": "Riyadi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "UBAH, BERUBAH": {
+    "indonesia": "Ubah, Berubah",
+    "jawa_ngoko": "Robah",
+    "jawa_krama": "Rêbah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ROKOK": {
+    "indonesia": "Rokok",
+    "jawa_ngoko": "Rokok",
+    "jawa_krama": "Sês",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ROMBAK": {
+    "indonesia": "Rombak",
+    "jawa_ngoko": "Rombak",
+    "jawa_krama": "Rêbah, Rombak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ROBOH": {
+    "indonesia": "Roboh",
+    "jawa_ngoko": "Rubuh",
+    "jawa_krama": "Rêbah",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SIMPAN, PELIHARA": {
+    "indonesia": "Simpan, Pelihara",
+    "jawa_ngoko": "Rumat",
+    "jawa_krama": "Rimat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DENGAR": {
+    "indonesia": "Dengar",
+    "jawa_ngoko": "Rungu",
+    "jawa_krama": "Pirêng",
+    "jawa_krama_inggil": "Pidangêt",
+    "priority": "nan"
+  },
+  "RUNTUH": {
+    "indonesia": "Runtuh",
+    "jawa_ngoko": "Runtuh",
+    "jawa_krama": "Rêntah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "RUPA": {
+    "indonesia": "Rupa",
+    "jawa_ngoko": "Rupa",
+    "jawa_krama": "Rupi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SEMPIT PANDANGANNYA": {
+    "indonesia": "Sempit pandangannya",
+    "jawa_ngoko": "Rupak",
+    "jawa_krama": "Ripak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "RUSUH": {
+    "indonesia": "Rusuh",
+    "jawa_ngoko": "Rusuh",
+    "jawa_krama": "Rêsah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SABUK": {
+    "indonesia": "Sabuk",
+    "jawa_ngoko": "Sabuk",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Paningsêt",
+    "priority": "nan"
+  },
+  "SANGGUP": {
+    "indonesia": "Sanggup",
+    "jawa_ngoko": "Saguh",
+    "jawa_krama": "Sagah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEKARANG": {
+    "indonesia": "Sekarang",
+    "jawa_ngoko": "Saiki",
+    "jawa_krama": "Sakmênika",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SAJIAN": {
+    "indonesia": "Sajian",
+    "jawa_ngoko": "Sajen",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Caosan",
+    "priority": "nan"
+  },
+  "DIBERIKAN SAJA": {
+    "indonesia": "Diberikan saja",
+    "jawa_ngoko": "Saji",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dipunsaosaken",
+    "priority": "nan"
+  },
+  "ASALNYA": {
+    "indonesia": "Asalnya",
+    "jawa_ngoko": "Saka",
+    "jawa_krama": "Saking",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SALAH": {
+    "indonesia": "Salah",
+    "jawa_ngoko": "Salah",
+    "jawa_krama": "Lêpat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "GANTI PAKAIAN": {
+    "indonesia": "Ganti pakaian",
+    "jawa_ngoko": "Salin",
+    "jawa_krama": "Santun, Gantos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SAMBUNG": {
+    "indonesia": "Sambung",
+    "jawa_ngoko": "Sambung",
+    "jawa_krama": "Sambêt",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEGALA SESUATU": {
+    "indonesia": "Segala sesuatu",
+    "jawa_ngoko": "Samubarang",
+    "jawa_krama": "Samukawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DITOPANG, DITANGGUNG": {
+    "indonesia": "Ditopang, Ditanggung",
+    "jawa_ngoko": "Sangga",
+    "jawa_krama": "Sanggi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SIAPA": {
+    "indonesia": "Siapa",
+    "jawa_ngoko": "Sapa",
+    "jawa_krama": "Sintên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LEMBU": {
+    "indonesia": "Lembu",
+    "jawa_ngoko": "Sapi",
+    "jawa_krama": "Lêmbu",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DISAPIH, DISARAK": {
+    "indonesia": "Disapih, Disarak",
+    "jawa_ngoko": "Sapih",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dipunpêgêng",
+    "priority": "nan"
+  },
+  "SERBA": {
+    "indonesia": "Serba",
+    "jawa_ngoko": "Sarwa",
+    "jawa_krama": "Sarwi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SAWAH": {
+    "indonesia": "Sawah",
+    "jawa_ngoko": "Sawah",
+    "jawa_krama": "Sabin",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERBEDA": {
+    "indonesia": "Berbeda",
+    "jawa_ngoko": "Seje",
+    "jawa_krama": "Sanes",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DITARUH, DILETAKKAN": {
+    "indonesia": "Ditaruh, Diletakkan",
+    "jawa_ngoko": "Seleh",
+    "jawa_krama": "Sukakakên",
+    "jawa_krama_inggil": "Paringaken",
+    "priority": "nan"
+  },
+  "SENDOK": {
+    "indonesia": "Sendok",
+    "jawa_ngoko": "Sendok",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Lantaran",
+    "priority": "nan"
+  },
+  "SATU": {
+    "indonesia": "Satu",
+    "jawa_ngoko": "Siji",
+    "jawa_krama": "Sêtunggal",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SEBAR (BENIH)": {
+    "indonesia": "Sebar (benih)",
+    "jawa_ngoko": "Sêbar",
+    "jawa_krama": "Dhawah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGATAKAN, SEBUT": {
+    "indonesia": "Mengatakan, Sebut",
+    "jawa_ngoko": "Sêbut",
+    "jawa_krama": "Sêbat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEBENTAR": {
+    "indonesia": "Sebentar",
+    "jawa_ngoko": "Sêdhela",
+    "jawa_krama": "Sakedhap",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KECUKUPAN": {
+    "indonesia": "Kecukupan",
+    "jawa_ngoko": "Sêdhêngan",
+    "jawa_krama": "Cêkapan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "NASI": {
+    "indonesia": "Nasi",
+    "jawa_ngoko": "Sêga",
+    "jawa_krama": "Sêkul",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "LAUT": {
+    "indonesia": "Laut",
+    "jawa_ngoko": "Sêgara",
+    "jawa_krama": "Sêgantên",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "DARI": {
+    "indonesia": "Dari",
+    "jawa_ngoko": "Sêka",
+    "jawa_krama": "Saking",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SEKIAN ITU": {
+    "indonesia": "Sekian itu",
+    "jawa_ngoko": "Sêmana",
+    "jawa_krama": "Sêmantên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENANGGUHKAN": {
+    "indonesia": "Menangguhkan",
+    "jawa_ngoko": "Sêmaya",
+    "jawa_krama": "Sêmagos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENYEMBELIH": {
+    "indonesia": "Menyembelih",
+    "jawa_ngoko": "Sêmbêlih",
+    "jawa_krama": "Pragat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEBESAR ITU": {
+    "indonesia": "Sebesar itu",
+    "jawa_ngoko": "Sêmono",
+    "jawa_krama": "Sêmantên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SENANG, SUKA": {
+    "indonesia": "Senang, Suka",
+    "jawa_ngoko": "Sênêng",
+    "jawa_krama": "Rêmen",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEPARO": {
+    "indonesia": "Separo",
+    "jawa_ngoko": "Sêparo",
+    "jawa_krama": "Sêpalih",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUNYI, SEPI": {
+    "indonesia": "Sunyi, Sepi",
+    "jawa_ngoko": "Sêpi",
+    "jawa_krama": "Sêpên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEJAK DULU": {
+    "indonesia": "Sejak dulu",
+    "jawa_ngoko": "Sêprana",
+    "jawa_krama": "Sêprika",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SAMPAI SEKARANG": {
+    "indonesia": "Sampai sekarang",
+    "jawa_ngoko": "Sêprene",
+    "jawa_krama": "Sêpriki",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEPULUH": {
+    "indonesia": "Sepuluh",
+    "jawa_ngoko": "Sêpuluh",
+    "jawa_krama": "Sêdasa",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KERAS (SUARA)": {
+    "indonesia": "Keras (suara)",
+    "jawa_ngoko": "Sêru",
+    "jawa_krama": "Sora",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DUA PULUH SEN": {
+    "indonesia": "Dua puluh sen",
+    "jawa_ngoko": "Sêtali",
+    "jawa_krama": "Sêtangsul",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SEDIKIT": {
+    "indonesia": "Sedikit",
+    "jawa_ngoko": "Sêthithik",
+    "jawa_krama": "Sêkêdhik",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SI": {
+    "indonesia": "Si",
+    "jawa_ngoko": "Si",
+    "jawa_krama": "Pun",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "KAKI": {
+    "indonesia": "Kaki",
+    "jawa_ngoko": "Sikil",
+    "jawa_krama": "Suku",
+    "jawa_krama_inggil": "Sampeyan",
+    "priority": "P1"
+  },
+  "SIKU": {
+    "indonesia": "Siku",
+    "jawa_ngoko": "Sikut",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Siku",
+    "priority": "P1"
+  },
+  "PINJAMAN": {
+    "indonesia": "Pinjaman",
+    "jawa_ngoko": "Silihan",
+    "jawa_krama": "Sambutan",
+    "jawa_krama_inggil": "Ampilan",
+    "priority": "nan"
+  },
+  "YANG": {
+    "indonesia": "Yang",
+    "jawa_ngoko": "Sing",
+    "jawa_krama": "Ingkang",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MEMBUANG INGUS": {
+    "indonesia": "Membuang ingus",
+    "jawa_ngoko": "Sisi",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Sêmprit",
+    "priority": "nan"
+  },
+  "SELAMATAN": {
+    "indonesia": "Selamatan",
+    "jawa_ngoko": "Slametan",
+    "jawa_krama": "Wilujengan",
+    "jawa_krama_inggil": "Sugengan",
+    "priority": "nan"
+  },
+  "SORE": {
+    "indonesia": "Sore",
+    "jawa_ngoko": "Sore",
+    "jawa_krama": "Sontên",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SABAR MENANTI": {
+    "indonesia": "Sabar menanti",
+    "jawa_ngoko": "Sranta",
+    "jawa_krama": "Srantos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MATAHARI": {
+    "indonesia": "Matahari",
+    "jawa_ngoko": "Srêngenge",
+    "jawa_krama": "Surya",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DIMARAHI": {
+    "indonesia": "Dimarahi",
+    "jawa_ngoko": "Srêngên",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Dipunsrêngêni",
+    "priority": "nan"
+  },
+  "DISUGUH": {
+    "indonesia": "Disuguh",
+    "jawa_ngoko": "Suguh",
+    "jawa_krama": "Dipunsêgah",
+    "jawa_krama_inggil": "Dipunsugata",
+    "priority": "nan"
+  },
+  "BULANAN": {
+    "indonesia": "Bulanan",
+    "jawa_ngoko": "Sukêr",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Tarab",
+    "priority": "nan"
+  },
+  "RUMPUT": {
+    "indonesia": "Rumput",
+    "jawa_ngoko": "Sukêt",
+    "jawa_krama": "Rumput",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENGERTI, MELIHAT": {
+    "indonesia": "Mengerti, Melihat",
+    "jawa_ngoko": "Sumurup",
+    "jawa_krama": "Sumêrêp",
+    "jawa_krama_inggil": "Priksa, Uninga",
+    "priority": "nan"
+  },
+  "KHITAN": {
+    "indonesia": "Khitan",
+    "jawa_ngoko": "Têtak",
+    "jawa_krama": "Supit",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TANDUT": {
+    "indonesia": "Tandut",
+    "jawa_ngoko": "Sungu",
+    "jawa_krama": "Singat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUPAYA": {
+    "indonesia": "Supaya",
+    "jawa_ngoko": "Supaya",
+    "jawa_krama": "Supados",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ARTI, MAKSUD": {
+    "indonesia": "Arti, Maksud",
+    "jawa_ngoko": "Surasa",
+    "jawa_krama": "Suraos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DIUNDANG": {
+    "indonesia": "Diundang",
+    "jawa_ngoko": "Suruh",
+    "jawa_krama": "Dipunsêdhahi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PETANG": {
+    "indonesia": "Petang",
+    "jawa_ngoko": "Surup",
+    "jawa_krama": "Sêrap",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUSAH": {
+    "indonesia": "Susah",
+    "jawa_ngoko": "Susah",
+    "jawa_krama": "Sisah",
+    "jawa_krama_inggil": "Sêngkêl",
+    "priority": "nan"
+  },
+  "MASIH MENYUSU": {
+    "indonesia": "Masih menyusu",
+    "jawa_ngoko": "Suson",
+    "jawa_krama": "Sêsêpan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUSU, PAYUDARA": {
+    "indonesia": "Susu, Payudara",
+    "jawa_ngoko": "Susu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pêmbayun",
+    "priority": "nan"
+  },
+  "SUGI, SUSUR": {
+    "indonesia": "Sugi, Susur",
+    "jawa_ngoko": "Susur",
+    "jawa_krama": "Susur",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUARA": {
+    "indonesia": "Suara",
+    "jawa_ngoko": "Suwara",
+    "jawa_krama": "Suwanten",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SURGA, ALMARHUM": {
+    "indonesia": "Surga, Almarhum",
+    "jawa_ngoko": "Suwarga",
+    "jawa_krama": "Suwargi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUNBANG": {
+    "indonesia": "Sunbang",
+    "jawa_ngoko": "Suwêng",
+    "jawa_krama": "Sêngkang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "(RUMAH) KOSONG": {
+    "indonesia": "(rumah) Kosong",
+    "jawa_ngoko": "Suwung",
+    "jawa_krama": "Suwêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TAHI, TINJA": {
+    "indonesia": "Tahi, Tinja",
+    "jawa_ngoko": "Tai",
+    "jawa_krama": "Tinja",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERTANYA": {
+    "indonesia": "Bertanya",
+    "jawa_ngoko": "Takon",
+    "jawa_krama": "Taken",
+    "jawa_krama_inggil": "Mundhut priksa",
+    "priority": "nan"
+  },
+  "TALI": {
+    "indonesia": "Tali",
+    "jawa_ngoko": "Tali",
+    "jawa_krama": "Tangsul",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "MEMPEROLEH": {
+    "indonesia": "Memperoleh",
+    "jawa_ngoko": "Tampa",
+    "jawa_krama": "Tampi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TANDA TANGAN": {
+    "indonesia": "Tanda tangan",
+    "jawa_ngoko": "Tanda Tangan",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Tapak Asta",
+    "priority": "nan"
+  },
+  "TANAM": {
+    "indonesia": "Tanam",
+    "jawa_ngoko": "Tandur",
+    "jawa_krama": "Tanêm",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TANGAN": {
+    "indonesia": "Tangan",
+    "jawa_ngoko": "Tangan",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Asta",
+    "priority": "nan"
+  },
+  "TETANGGA": {
+    "indonesia": "Tetangga",
+    "jawa_ngoko": "Tangga",
+    "jawa_krama": "Tanggi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TANGGUH": {
+    "indonesia": "Tangguh",
+    "jawa_ngoko": "Tanggon",
+    "jawa_krama": "Tanggên",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TANGGUNG- TANGGUNG": {
+    "indonesia": "Tanggung- tanggung",
+    "jawa_ngoko": "Tanggung",
+    "jawa_krama": "Tangêl",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TANGIS": {
+    "indonesia": "Tangis",
+    "jawa_ngoko": "Tangis",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pamuwun",
+    "priority": "nan"
+  },
+  "BEDAK PERUT": {
+    "indonesia": "Bedak perut",
+    "jawa_ngoko": "Tapêl",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Rakêtan",
+    "priority": "nan"
+  },
+  "KAIN BATIK (PEREMPUAN)": {
+    "indonesia": "Kain batik (perempuan)",
+    "jawa_ngoko": "Tapih",
+    "jawa_krama": "Sinjang",
+    "jawa_krama_inggil": "Nyamping",
+    "priority": "nan"
+  },
+  "DITANYA MAU ATAU TIDAK": {
+    "indonesia": "Ditanya mau atau tidak",
+    "jawa_ngoko": "Tari, Ditari",
+    "jawa_krama": "Dipuntantun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LUKA": {
+    "indonesia": "Luka",
+    "jawa_ngoko": "Tatu",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Labêt",
+    "priority": "P1"
+  },
+  "PERNAH": {
+    "indonesia": "Pernah",
+    "jawa_ngoko": "Tau",
+    "jawa_krama": "Nate",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENAWARI DAGANGAN": {
+    "indonesia": "Menawari dagangan",
+    "jawa_ngoko": "Tawa",
+    "jawa_krama": "Tawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TEBU": {
+    "indonesia": "Tebu",
+    "jawa_ngoko": "Têbu",
+    "jawa_krama": "Rosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "LADANG": {
+    "indonesia": "Ladang",
+    "jawa_ngoko": "Têgal",
+    "jawa_krama": "Têgil",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TIBA, SAMPAI": {
+    "indonesia": "Tiba, Sampai",
+    "jawa_ngoko": "Têkan",
+    "jawa_krama": "Dumugi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TONGKAT": {
+    "indonesia": "Tongkat",
+    "jawa_ngoko": "Têkên",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Lantaran",
+    "priority": "nan"
+  },
+  "TIGA": {
+    "indonesia": "Tiga",
+    "jawa_ngoko": "Têlu",
+    "jawa_krama": "Tiga",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "TEMBAGA": {
+    "indonesia": "Tembaga",
+    "jawa_ngoko": "Têmbaga",
+    "jawa_krama": "Têmbagi",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LAGU, NYANYIAN": {
+    "indonesia": "Lagu, Nyanyian",
+    "jawa_ngoko": "Têmbang",
+    "jawa_krama": "Sêkar",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUNGGUH, BENAR": {
+    "indonesia": "Sungguh, Benar",
+    "jawa_ngoko": "Têmên",
+    "jawa_krama": "Estu, Yêktos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PERTEMUAN": {
+    "indonesia": "Pertemuan",
+    "jawa_ngoko": "Têmon",
+    "jawa_krama": "Pêpanggihan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TEMU": {
+    "indonesia": "Temu",
+    "jawa_ngoko": "Têmu",
+    "jawa_krama": "Panggih",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "SENYATANYA": {
+    "indonesia": "Senyatanya",
+    "jawa_ngoko": "Tênan",
+    "jawa_krama": "Estu, Yêktos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KENAL, BERTEMU": {
+    "indonesia": "Kenal, Bertemu",
+    "jawa_ngoko": "Têpung",
+    "jawa_krama": "Têpang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERUS": {
+    "indonesia": "Terus",
+    "jawa_ngoko": "Têrus",
+    "jawa_krama": "Lajêng",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERKENALAN": {
+    "indonesia": "Berkenalan",
+    "jawa_ngoko": "Têtêpungan",
+    "jawa_krama": "Têtêpangan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SESEPUH, TETUA": {
+    "indonesia": "Sesepuh, Tetua",
+    "jawa_ngoko": "Têtuwa",
+    "jawa_krama": "Sêsêpuh",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JATUH": {
+    "indonesia": "Jatuh",
+    "jawa_ngoko": "Tilik",
+    "jawa_krama": "Dhawah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERKUNJUNG, MENJENGUK": {
+    "indonesia": "Berkunjung, Menjenguk",
+    "jawa_ngoko": "Tilik",
+    "jawa_krama": "Tuwi",
+    "jawa_krama_inggil": "Tinjo, Sowan",
+    "priority": "nan"
+  },
+  "MENINGGALKAN": {
+    "indonesia": "Meninggalkan",
+    "jawa_ngoko": "Tinggal",
+    "jawa_krama": "Tilar",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TEKUN": {
+    "indonesia": "Tekun",
+    "jawa_ngoko": "Tlaten",
+    "jawa_krama": "Tlatos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PERTUNJUKAN": {
+    "indonesia": "Pertunjukan",
+    "jawa_ngoko": "Tontonan",
+    "jawa_krama": "Têtingalan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERASI": {
+    "indonesia": "Terasi",
+    "jawa_ngoko": "Trasi",
+    "jawa_krama": "Traos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MEMBERITAHUKAN": {
+    "indonesia": "Memberitahukan",
+    "jawa_ngoko": "Tuduh",
+    "jawa_krama": "Têdah",
+    "jawa_krama_inggil": "Paring priksa",
+    "priority": "nan"
+  },
+  "BELI": {
+    "indonesia": "Beli",
+    "jawa_ngoko": "Tuku",
+    "jawa_krama": "Tumbas",
+    "jawa_krama_inggil": "Mundhut",
+    "priority": "P1"
+  },
+  "TULIS": {
+    "indonesia": "Tulis",
+    "jawa_ngoko": "Tulis",
+    "jawa_krama": "Sêrat",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TULISAN": {
+    "indonesia": "Tulisan",
+    "jawa_ngoko": "Tulisan",
+    "jawa_krama": "Sêratan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KUTU": {
+    "indonesia": "Kutu",
+    "jawa_ngoko": "Tuma",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Itik",
+    "priority": "P1"
+  },
+  "TOMBAK": {
+    "indonesia": "Tombak",
+    "jawa_ngoko": "Tumbak",
+    "jawa_krama": "Waos",
+    "jawa_krama_inggil": "Watangan",
+    "priority": "nan"
+  },
+  "RUGI, TIDAK SAMPAI": {
+    "indonesia": "Rugi, Tidak sampai",
+    "jawa_ngoko": "Tuna",
+    "jawa_krama": "Tuni",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SATU, TUNGGAL": {
+    "indonesia": "Satu, Tunggal",
+    "jawa_ngoko": "Tunggal",
+    "jawa_krama": "Tungil",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "NAIK (KENDARAAN)": {
+    "indonesia": "Naik (kendaraan)",
+    "jawa_ngoko": "Tunggang",
+    "jawa_krama": "Tumpak",
+    "jawa_krama_inggil": "Nitih",
+    "priority": "nan"
+  },
+  "KENDARAAN": {
+    "indonesia": "Kendaraan",
+    "jawa_ngoko": "Tunggangan",
+    "jawa_krama": "Tumpakan",
+    "jawa_krama_inggil": "Titihan",
+    "priority": "nan"
+  },
+  "TIDURAN": {
+    "indonesia": "Tiduran",
+    "jawa_ngoko": "Turon",
+    "jawa_krama": "Tilêman",
+    "jawa_krama_inggil": "Sareyan",
+    "priority": "nan"
+  },
+  "TIDUR": {
+    "indonesia": "Tidur",
+    "jawa_ngoko": "Turu",
+    "jawa_krama": "Tilem",
+    "jawa_krama_inggil": "Sare",
+    "priority": "nan"
+  },
+  "KETURUNAN": {
+    "indonesia": "Keturunan",
+    "jawa_ngoko": "Turun",
+    "jawa_krama": "Têdhak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ASAL USUL KETURUNAN": {
+    "indonesia": "Asal usul keturunan",
+    "jawa_ngoko": "Turunan",
+    "jawa_krama": "Têdhakan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "DITUMBUK": {
+    "indonesia": "Ditumbuk",
+    "jawa_ngoko": "Tutu",
+    "jawa_krama": "Dipungêntang",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TUA": {
+    "indonesia": "Tua",
+    "jawa_ngoko": "Tuwa",
+    "jawa_krama": "Sêpuh",
+    "jawa_krama_inggil": "Yuswa",
+    "priority": "P1"
+  },
+  "TUMBUH": {
+    "indonesia": "Tumbuh",
+    "jawa_ngoko": "Tuwuh",
+    "jawa_krama": "Tewah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KIRA-KIRA": {
+    "indonesia": "Kira-kira",
+    "jawa_ngoko": "Udakara",
+    "jawa_krama": "Udakawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HUJAN": {
+    "indonesia": "Hujan",
+    "jawa_ngoko": "Udan",
+    "jawa_krama": "Jawah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "LEPAS KAIN BATIK": {
+    "indonesia": "Lepas kain batik",
+    "jawa_ngoko": "Udhar",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Lukar",
+    "priority": "nan"
+  },
+  "JUGA": {
+    "indonesia": "Juga",
+    "jawa_ngoko": "Uga",
+    "jawa_krama": "Ugi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PERGELANGAN TANGAN": {
+    "indonesia": "Pergelangan tangan",
+    "jawa_ngoko": "Ugêl-ugêl",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pagêlangan",
+    "priority": "nan"
+  },
+  "JANJI, SUMPAH": {
+    "indonesia": "Janji, Sumpah",
+    "jawa_ngoko": "Ujar",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Punagi",
+    "priority": "nan"
+  },
+  "ULAR": {
+    "indonesia": "Ular",
+    "jawa_ngoko": "Ula",
+    "jawa_krama": "Sawêr",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "RAUT MUKA": {
+    "indonesia": "Raut muka",
+    "jawa_ngoko": "Ulat",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Pasuryan",
+    "priority": "nan"
+  },
+  "UNDANGAN": {
+    "indonesia": "Undangan",
+    "jawa_ngoko": "Ulêm",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Atur",
+    "priority": "nan"
+  },
+  "INGUS": {
+    "indonesia": "Ingus",
+    "jawa_ngoko": "Umbêl",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Gadhing",
+    "priority": "nan"
+  },
+  "UMUR": {
+    "indonesia": "Umur",
+    "jawa_ngoko": "Umur",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Yuswa",
+    "priority": "P1"
+  },
+  "PANGGIL": {
+    "indonesia": "Panggil",
+    "jawa_ngoko": "Undang",
+    "jawa_krama": "Timbal",
+    "jawa_krama_inggil": "Atur",
+    "priority": "nan"
+  },
+  "MENINGKAT": {
+    "indonesia": "Meningkat",
+    "jawa_ngoko": "Undhak",
+    "jawa_krama": "Mindhak",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BUNYI, SUARA": {
+    "indonesia": "Bunyi, Suara",
+    "jawa_ngoko": "Uni",
+    "jawa_krama": "Ungêl",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "GIGI": {
+    "indonesia": "Gigi",
+    "jawa_ngoko": "Untu",
+    "jawa_krama": "Waos",
+    "jawa_krama_inggil": "Waja",
+    "priority": "P1"
+  },
+  "PELIHARA": {
+    "indonesia": "Pelihara",
+    "jawa_ngoko": "Upakara",
+    "jawa_krama": "Upakawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "UPAMA": {
+    "indonesia": "Upama",
+    "jawa_ngoko": "Upama",
+    "jawa_krama": "Upami",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HIDUP": {
+    "indonesia": "Hidup",
+    "jawa_ngoko": "Urip",
+    "jawa_krama": "Gesang",
+    "jawa_krama_inggil": "Sugeng",
+    "priority": "nan"
+  },
+  "UTAMA": {
+    "indonesia": "Utama",
+    "jawa_ngoko": "Utama",
+    "jawa_krama": "Utami",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ATAU": {
+    "indonesia": "Atau",
+    "jawa_ngoko": "Utawa",
+    "jawa_krama": "Utawi",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "USUS": {
+    "indonesia": "Usus",
+    "jawa_ngoko": "Usus",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Jaringan",
+    "priority": "P1"
+  },
+  "GARAM": {
+    "indonesia": "Garam",
+    "jawa_ngoko": "Uyah",
+    "jawa_krama": "Sarêm",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KENCING": {
+    "indonesia": "Kencing",
+    "jawa_ngoko": "Uyuh",
+    "jawa_krama": "Toyan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BACA": {
+    "indonesia": "Baca",
+    "jawa_ngoko": "Waca",
+    "jawa_krama": "Waos",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BACAAN": {
+    "indonesia": "Bacaan",
+    "jawa_ngoko": "Wacan",
+    "jawa_krama": "Waosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "RAHASIA": {
+    "indonesia": "Rahasia",
+    "jawa_ngoko": "Wadi",
+    "jawa_krama": "Wados",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PUTRI, PEREMPUAN": {
+    "indonesia": "Putri, Perempuan",
+    "jawa_ngoko": "Wadon",
+    "jawa_krama": "Êstri",
+    "jawa_krama_inggil": "Putri, Wanita",
+    "priority": "nan"
+  },
+  "SAJA": {
+    "indonesia": "Saja",
+    "jawa_ngoko": "Wae",
+    "jawa_krama": "Kemawon",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BERSIN": {
+    "indonesia": "Bersin",
+    "jawa_ngoko": "Wahing",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Sigra",
+    "priority": "nan"
+  },
+  "BAJA": {
+    "indonesia": "Baja",
+    "jawa_ngoko": "Waja",
+    "jawa_krama": "Waos",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "NASEHAT KERAS": {
+    "indonesia": "Nasehat keras",
+    "jawa_ngoko": "Wanti-wanti",
+    "jawa_krama": "Wantos-wantos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SARUNG KERIS": {
+    "indonesia": "Sarung keris",
+    "jawa_ngoko": "Warangka",
+    "jawa_krama": "Sarungan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KENYANG": {
+    "indonesia": "Kenyang",
+    "jawa_ngoko": "Warêg",
+    "jawa_krama": "Tuwuk",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "WARISAN": {
+    "indonesia": "Warisan",
+    "jawa_ngoko": "Warisan",
+    "jawa_krama": "Tilaran",
+    "jawa_krama_inggil": "Pusaka",
+    "priority": "nan"
+  },
+  "WARNA/JENIS": {
+    "indonesia": "Warna/Jenis",
+    "jawa_ngoko": "Warna",
+    "jawa_krama": "Warni",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KEDAI, WARUNG": {
+    "indonesia": "Kedai, Warung",
+    "jawa_ngoko": "Warung",
+    "jawa_krama": "Wande",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "WASAPADA": {
+    "indonesia": "Wasapada",
+    "jawa_ngoko": "Waspada",
+    "jawa_krama": "Wasapaos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "ANTARA, KIRA-KIRA": {
+    "indonesia": "Antara, Kira-kira",
+    "jawa_ngoko": "Watara",
+    "jawa_krama": "Watawis",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BATU": {
+    "indonesia": "Batu",
+    "jawa_ngoko": "Watu",
+    "jawa_krama": "Sela",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BATUK": {
+    "indonesia": "Batuk",
+    "jawa_ngoko": "Watuk",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Cêkoh",
+    "priority": "nan"
+  },
+  "WAKTU": {
+    "indonesia": "Waktu",
+    "jawa_ngoko": "Wêktu",
+    "jawa_krama": "Wêkdal",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "WAYANG": {
+    "indonesia": "Wayang",
+    "jawa_ngoko": "Wayang",
+    "jawa_krama": "Ringgit",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MINUMAN": {
+    "indonesia": "Minuman",
+    "jawa_ngoko": "Wedang",
+    "jawa_krama": "Bênteran",
+    "jawa_krama_inggil": "Unjukan",
+    "priority": "nan"
+  },
+  "DIBERI": {
+    "indonesia": "Diberi",
+    "jawa_ngoko": "Weneh",
+    "jawa_krama": "Dipunsukani",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "CAT KAIN": {
+    "indonesia": "Cat kain",
+    "jawa_ngoko": "Wêdêl",
+    "jawa_krama": "Cêlêp",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "KAMBING": {
+    "indonesia": "Kambing",
+    "jawa_ngoko": "Wêdhus",
+    "jawa_krama": "Menda",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BERITA, KABAR": {
+    "indonesia": "Berita, Kabar",
+    "jawa_ngoko": "Wêrta",
+    "jawa_krama": "Wêrtos, Wartos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TAHU, MELIHAT": {
+    "indonesia": "Tahu, Melihat",
+    "jawa_ngoko": "Wêruh",
+    "jawa_krama": "Sumêrêp",
+    "jawa_krama_inggil": "Uninga, Priksa",
+    "priority": "nan"
+  },
+  "BESI": {
+    "indonesia": "Besi",
+    "jawa_ngoko": "Wêsi",
+    "jawa_krama": "Tosan",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "PERUT": {
+    "indonesia": "Perut",
+    "jawa_ngoko": "Wêteng",
+    "jawa_krama": "Padharan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TERUNGKAP": {
+    "indonesia": "Terungkap",
+    "jawa_ngoko": "Wêtu",
+    "jawa_krama": "Kêwêdal",
+    "jawa_krama_inggil": "Kêwiyos",
+    "priority": "nan"
+  },
+  "HARI KELAHIRAN": {
+    "indonesia": "Hari kelahiran",
+    "jawa_ngoko": "Wêton",
+    "jawa_krama": "Wêdalan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "PERLU SEKALI, PENTING": {
+    "indonesia": "Perlu sekali, Penting",
+    "jawa_ngoko": "Wigati",
+    "jawa_krama": "Wigatos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "HITUNGAN, BILANGAN": {
+    "indonesia": "Hitungan, Bilangan",
+    "jawa_ngoko": "Wilangan",
+    "jawa_krama": "Wicalan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "SUDAH": {
+    "indonesia": "Sudah",
+    "jawa_ngoko": "Wis",
+    "jawa_krama": "Sampun",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "MENCUCI TANGAN/KAKI": {
+    "indonesia": "Mencuci tangan/kaki",
+    "jawa_ngoko": "Wisuh",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Wijik",
+    "priority": "nan"
+  },
+  "ORANG": {
+    "indonesia": "Orang",
+    "jawa_ngoko": "Wong",
+    "jawa_krama": "Tiyang",
+    "jawa_krama_inggil": "Priyantun",
+    "priority": "nan"
+  },
+  "LEPAS PAKAIAN": {
+    "indonesia": "Lepas pakaian",
+    "jawa_ngoko": "Wuda",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Lukar",
+    "priority": "nan"
+  },
+  "BISUL": {
+    "indonesia": "Bisul",
+    "jawa_ngoko": "Wudun",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Untar",
+    "priority": "nan"
+  },
+  "PELAJARAN": {
+    "indonesia": "Pelajaran",
+    "jawa_ngoko": "Wulangan",
+    "jawa_krama": "Wucalan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BULUH, BAMBU": {
+    "indonesia": "Buluh, Bambu",
+    "jawa_ngoko": "Wuluh",
+    "jawa_krama": "Wêlah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "BUNGSU": {
+    "indonesia": "Bungsu",
+    "jawa_ngoko": "Wuragil",
+    "jawa_krama": "nan",
+    "jawa_krama_inggil": "Waruju",
+    "priority": "nan"
+  },
+  "TIDAK JADI": {
+    "indonesia": "Tidak jadi",
+    "jawa_ngoko": "Wurung",
+    "jawa_krama": "Sande",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "UTUH": {
+    "indonesia": "Utuh",
+    "jawa_ngoko": "Wutuh",
+    "jawa_krama": "Wêtah",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BERTAMBAH": {
+    "indonesia": "Bertambah",
+    "jawa_ngoko": "Wuwuh",
+    "jawa_krama": "Wêtah",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "TAMBAHAN": {
+    "indonesia": "Tambahan",
+    "jawa_ngoko": "Wuwuhan",
+    "jawa_krama": "Wêwahan",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "YA": {
+    "indonesia": "Ya",
+    "jawa_ngoko": "Ya, Iya",
+    "jawa_krama": "Inggih",
+    "jawa_krama_inggil": "nan",
+    "priority": "P1"
+  },
+  "BETUL": {
+    "indonesia": "Betul",
+    "jawa_ngoko": "Yêkti",
+    "jawa_krama": "Yêktos",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  },
+  "JIKALAU": {
+    "indonesia": "Jikalau",
+    "jawa_ngoko": "Yen",
+    "jawa_krama": "Bilih",
+    "jawa_krama_inggil": "nan",
+    "priority": "nan"
+  }
+}
